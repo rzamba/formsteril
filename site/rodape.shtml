@@ -1,0 +1,47 @@
+<aside class="bottom">
+      <div class="main">
+          <div class="inside">
+            <div class="container_16 bg wrapper">
+                <div class="grid_3">
+                <ul>
+                  <li><a href="#">Our Staff</a></li>
+                  <li><a href="#">Did you know?</a></li>
+                  <li><a href="#">Our Articles</a></li>
+                </ul>
+              </div>
+                <div class="grid_3">
+                <ul>
+                   <li><a href="#">On-line Consultation</a></li>
+                  <li><a href="#">FAQs</a></li>
+                </ul>
+              </div>
+                <div class="grid_3">
+                <ul>
+                  <li><a href="#">Special Solutions</a></li>
+                  <li><a href="#">Hot News</a></li>
+                </ul>
+              </div>
+                <div class="grid_6">
+                	<h2>Extranet</h2>
+               		 <form action="" id="newsletter-form">
+                      <fieldset>
+                        <div class="field">
+                          <input type="text" value="Entre com seu email" onFocus="if(this.value=='Entre com seu email'){this.value=''}" onBlur="if(this.value==''){this.value='Entre com seu email'}"><input type="submit" value="Login">
+                        </div>
+                       <!-- &gt;  unsubscribe <a href="#">here</a> -->
+                      </fieldset>
+                    </form>
+              	</div>
+            </div>
+          </div>
+      </div>
+    </aside>
+  <!-- footer -->
+  <footer>
+    <div class="container">
+        <div class="indent">
+          <span>Form Steril</span> &copy; 2011 &nbsp;<!-- {%FOOTER_LINK} -->
+        </div>
+    </div>
+ </footer>
+ <script type="text/javascript"> Cufon.now(); </script>

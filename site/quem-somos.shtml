@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home page</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Your description">
+  <meta name="keywords" content="Your keywords">
+  <meta name="author" content="Your name">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  
+  <!-- styles for prettyPhoto -->
+  <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="all">
+  
+  <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+   
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+  <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+</head>
+
+<body>
+  <div class="main">
+  <!-- header -->
+  <!--#include virtual="header.shtml" -->
+
+    <!-- content -->
+    <section id="content">
+      <!-- .content-box -->
+        <div class="content-box">
+            <div class="container_16 wrapper">
+                <div class="grid_10">
+                       <h3>Nossa História</h3>
+                    	<span class="txt1">Nós temos mais de 10 anos de experiência.</span>
+                        <p>Inaugurada em 19 de dezembro de 2003 a Form Steril&reg; iniciou a prestação de serviços de esterilização de materiais hospitalares com tecnologia da Pres Switch® em Piracicaba-SP.</p><p>Somos uma empresa especializada em serviços e processos de controle de infecção hospitalar <br/>com objetivo de assegurar completa segurança biológica para a reutilização dos materiais<br/> médico-cirúrgicos. </p><p>Atuamos com áreas específicas para todas as fases do reprocessamento, com a mais avançada tecnologia em equipamentos, pessoal qualificado e processos cuidadosamente avaliados e validados, proporcionando soluções rápidas, completas e seguras. </p>
+                        <div class="indent">
+                        	<h3>Tecnologia da Pres Switch&reg;</h3>
+                            <span class="txt1">Processo de Vapor a Baixa Temperatura por Sublimação de Paraformaldeído Sólido&reg;.</span>
+                            <p>O método da <b>Pres Switch&reg;</b> se difere dos demais métodos de formaldeído (VBTF) por ter a sua reação catalisada num reator que potencializa o efeito de capilaridade do gás do paraformaldeído sublimado, aumentando a qualidade estéril e reduzindo o tempo de exposição dos artigos.</p>
+                            <p>O processo atinge seguridade estéril para os materiais de pequenos lumens (cateteres) devido a sua alta eficiência de penetração por efeito de capilaridade e tem um alcance de esterilização com níveis muito superiores aos métodos de Oxido de Etileno (ETO) e  Peróxido de Hidrogênio (água oxigenada concentrada).</p>
+                        </div>
+                        <div class="indent">
+                        	<h3>Controle de Seguridade Estéril</h3>
+                            <p>Utilizamos um dispositivo chamado <b>STF <i>(load check)</i></b>, para a realização do teste de penetrabilidade do paraformaldeido. Através do <b><u>pacote de sacrifico</u></b> com matéria prima de origem e qualidade <b>ISO</b>, realizamos o teste de seguridade estéril.</p>
+                            <p>Os documentos referentes ao teste de sacrifício são relatados, etiquetados e arquivados pelo período de tempo regulamentado pela <b>ANVISA</b>. A etiqueta contém data, hora, n.º de lote, maquina, assinatura do operador e responsável técnico pelo processo.</p>
+                        </div>
+                </div>
+                <div class="grid_6">                   
+                    <h3>Controle de Qualidade</h3>
+                    <ul class="list">
+                        <span class="txt1">As normas ISO que orientam os processos de esterilização da Form Steril são:</span><br/><br/>
+                        <li>O processo por água em forma de vapor saturado: <b>ISO 11.134</b></li>
+                        <li class="li">O processo de paraformaldeído granulado sólido: <b>ISO 24.424/9</b></li>
+                        <li class="li1">Seguridade Estéril validados pelos integradores químicos: <b>ISO 11.140</b></li>
+                        <li class="li2">Integradores biológicos <b>ISO 11.138</b> com nível de seguridade estéril <b>(SAL) 10 -6</b></li>
+                    </ul>
+                    <div class="indent">
+                    	 <div class="box">
+                        <div class="indent-box">
+                            <h3>Testemunho</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit praesent vestibulum molestie lacus. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit.</p>
+                            <p>Varius mi. Aenean nonummy hendrerit mauris. Phasellus porta. Fusce suscipit. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nulla dufusce feugiat malesuada odio. Morbi nunc odio...  </p>  
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+      <!-- /.content-box -->
+    </section>
+  </div>
+  <!-- aside -->
+  <!--#include virtual="rodape.shtml" -->
+</body>
+</html>

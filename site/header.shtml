@@ -1,0 +1,18 @@
+<header>
+    	<!-- .logo -->
+      <div class="logo">
+      	<a href="index.shtml"><div style="font-size:40px;color:black;margin-left:20px;margin-top:15px;float:left;font-family:Arial;">Form Steril</div></a><div style="font-size:15px;color:black;margin-top:18px;float:left;margin-left:10px;font-color:gray;">A tecnologia de esterilização do século XXI</div>
+      </div>
+    	<!-- /.logo -->
+      <!-- <form action="" id="login-form"><div class="rowElem1"><input type="text" class="input" value="Search" onBlur="if(this.value=='') this.value='Search'" onFocus="if(this.value =='Search' ) this.value=''"  /><a href="#" onClick="document.getElementById('login-form').submit()"><img alt="" src="images/button.gif" /></a></div></form> -->
+      <nav>
+        <ul class="sf-menu">
+          <li><a href="index.shtml" class="current">home</a></li>
+          <li><a href="quem-somos.shtml">quem somos</a></li>
+          <li><a href="index-2.shtml">serviços</a></li>
+          <li><a href="index-3.shtml">tecnologia</a></li>
+          <li><a href="processos.shtml">processos</a></li>
+          <li><a href="index-5.shtml">contato</a></li>
+        </ul>
+      </nav>      
+</header>
