@@ -33,7 +33,7 @@ html, body { height:100%;}
 
 	/* Header */
 	header{
-		height:228px;
+		height:177px;
 		overflow:hidden;
 		}
 	
@@ -858,14 +858,14 @@ table tr:hover td {
 header .logo {
 	position:absolute;
 	left:0;
-	top:74px;
+	top:15px;
 	}
 
 /* Navigation */
 header nav {
 	position:absolute;
 	left:10px;
-	top:161px;
+	top:110px;
 	width:943px;
 	z-index:90000000000000;
 	}
@@ -1380,7 +1380,7 @@ input, select, textarea {
 #login-form {
 	position:absolute;
 	right:25px;
-	top:93px;
+	top:60px;
 	width:198px;
 	margin:0;
 	padding:0

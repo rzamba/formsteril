@@ -1,10 +1,19 @@
 <header>
     	<!-- .logo -->
       <div class="logo">
-      	<a href="index.shtml"><div style="font-size:40px;color:black;margin-left:20px;margin-top:15px;float:left;font-family:Arial;">Form Steril</div></a><div style="font-size:15px;color:black;margin-top:18px;float:left;margin-left:10px;font-color:gray;">A tecnologia de esterilização do século XXI</div>
+      	<a href="index.shtml"><img src="images/logo-form.png" alt=""></a>
+     
       </div>
+
     	<!-- /.logo -->
-      <!-- <form action="" id="login-form"><div class="rowElem1"><input type="text" class="input" value="Search" onBlur="if(this.value=='') this.value='Search'" onFocus="if(this.value =='Search' ) this.value=''"  /><a href="#" onClick="document.getElementById('login-form').submit()"><img alt="" src="images/button.gif" /></a></div></form> -->
+      <form action="http://www.google.com/search" id="login-form">
+          <div class="rowElem1">
+              <INPUT TYPE=hidden name=hl value="pt-br">
+              <input name="q" type="text" class="input" value="Buscar" onBlur="if(this.value=='') this.value='Buscar'" onFocus="if(this.value =='Buscar' ) this.value=''"  />
+              <a href="#" onClick="document.getElementById('login-form').submit()">
+                  <img alt="" src="images/button.gif" /></a>
+          </div>
+      </form>
       <nav>
         <ul class="sf-menu">
           <li><a href="index.shtml" class="current">home</a></li>

@@ -76,13 +76,13 @@
                 <div class="grid_6">
                     <div class="indent-col1">
                        <h3>Nosso endereço</h3>
-                    	<img alt="" src="images/6page_img1.jpg" class="img-indent" /><br>
-                        <p>The Company Name Inc.<br>
-                        8901 Marmora Road, Glasgow, D04 89GR.</p>
-                        <p class="block-contact"><span>+1 800 559 6580</span>Freephone:<br> 
-                        <span>+1 959 603 6035</span>Telephone:<br>  
-                        <span>+1 504 889 9898</span>FAX:<br>           
-                        E-mail: <a href="#" class="link1">mail@demolink.org</a></p>
+                        <iframe width="341" height="213" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Maringa+202,+Jardim+S%C3%A3o+Franscisco+S%C3%A3o+Paulo&amp;aq=&amp;sll=-22.771552,-47.592881&amp;sspn=0.010506,0.020814&amp;ie=UTF8&amp;hq=&amp;hnear=R.+Maring%C3%A1,+202+-+Jardim+S%C3%A3o+Francisco,+Piracicaba+-+S%C3%A3o+Paulo,+13423-514&amp;t=h&amp;ll=-22.771591,-47.592859&amp;spn=0.016857,0.029182&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Maringa+202,+Jardim+S%C3%A3o+Franscisco+S%C3%A3o+Paulo&amp;aq=&amp;sll=-22.771552,-47.592881&amp;sspn=0.010506,0.020814&amp;ie=UTF8&amp;hq=&amp;hnear=R.+Maring%C3%A1,+202+-+Jardim+S%C3%A3o+Francisco,+Piracicaba+-+S%C3%A3o+Paulo,+13423-514&amp;t=h&amp;ll=-22.771591,-47.592859&amp;spn=0.016857,0.029182&amp;z=14&amp;iwloc=A" style="text-align:left">Exibir mapa ampliado</a></small>
+                    	<br>
+                        <p>Form Steril<br>
+                        <b>Rua Maringa 202, Jardim São Franscisco</b> <br>Piracicaba - São Paulo <br>Cep:13423-514</p>
+                        <p class="block-contact">
+                        <span>+55 19 3042-0377</span>Telefone:<br>
+                        E-mail: <a href="mailto:contato@formsteril.com.br" class="link1">contato@formsteril.com.br</a></p>
                     </div>
                 </div>
             </div>
