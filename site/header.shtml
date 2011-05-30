@@ -9,7 +9,7 @@
       <form action="http://www.google.com/search" id="login-form">
           <div class="rowElem1">
               <INPUT TYPE=hidden name=hl value="pt-br">
-              <input name="q" type="text" class="input" value="Buscar" onBlur="if(this.value=='') this.value='Buscar'" onFocus="if(this.value =='Buscar' ) this.value=''"  />
+              <input name="q" type="text" class="input" value="Buscar no google" onBlur="if(this.value=='') this.value='Buscar no google'" onFocus="if(this.value =='Buscar no google' ) this.value=''"  />
               <a href="#" onClick="document.getElementById('login-form').submit()">
                   <img alt="" src="images/button.gif" /></a>
           </div>
@@ -21,7 +21,7 @@
           <li><a href="index-2.shtml">serviços</a></li>
           <li><a href="index-3.shtml">tecnologia</a></li>
           <li><a href="processos.shtml">processos</a></li>
-          <li><a href="index-5.shtml">contato</a></li>
+          <li><a href="contato.shtml">contato</a></li>
         </ul>
       </nav>      
 </header>
