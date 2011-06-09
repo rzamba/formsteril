@@ -28,6 +28,12 @@
   <!-- header -->
   <!--#include virtual="header.shtml" -->
 
+      <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#quemsomos").addClass('current');
+                  });
+      </script>
+
     <!-- content -->
     <section id="content">
       <!-- .content-box -->

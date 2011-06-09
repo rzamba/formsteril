@@ -271,15 +271,15 @@ h6 {	font-size:14px;}
 /* List */
 ul.list {}
 	ul.list li { 
-		background:url(../images/icon1.gif) no-repeat 0 2px;
+		background:url(../images/h2o.jpg) no-repeat 0 2px;
 		padding:0 0 0 56px;
 		position:relative;
 		padding-bottom:15px;
 		zoom:1;
 		}
-	ul.list .li { 		background:url(../images/icon2.gif) no-repeat 0 2px;		}
-	ul.list .li1 { 		background:url(../images/icon3.gif) no-repeat 0 2px;		}
-	ul.list .li2 { 		background:url(../images/icon4.gif) no-repeat 0 2px;		}
+	ul.list .li { 		background:url(../images/paraform.jpg) no-repeat 0 2px;		}
+	ul.list .li1 { 		background:url(../images/indqui.jpg) no-repeat 0 2px;		}
+	ul.list .li2 { 		background:url(../images/indbio.jpg) no-repeat 0 2px;		}
 	ul.list .li3 { 		background:url(../images/icon5.gif) no-repeat 0 2px;		}
 	ul.list .li4 { 		background:url(../images/icon6.gif) no-repeat 0 2px;		}
 	ul.list .li5 { 		background:url(../images/icon7.gif) no-repeat 0 2px;		}
@@ -2001,10 +2001,18 @@ a.aToolTipCloseBtn {
 	background:url(../images/bg_menu.gif) top left no-repeat;
 	zoom:1;
 }
+
+.sf-menu a.current	  { /* visited pseudo selector so IE6 applies text colour*/
+	background: url(../images/bg_menu-act.gif);
+	color:#c9c9c9;
+}
+
 .sf-menu a:hover, .sf-menu a.current	  { /* visited pseudo selector so IE6 applies text colour*/
 	background: url(../images/bg_menu-act.gif);
 	color:#c9c9c9;
 }
+
+
 .sf-menu ul {
 	position:		absolute;
 	top:			-999em;

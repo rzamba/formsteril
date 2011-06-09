@@ -27,6 +27,11 @@
   <div class="main">
   	<!-- header -->
     <!--#include virtual="header.shtml" -->
+    <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#contato").addClass('current');
+                  });
+     </script>
       
     <!-- content -->
     <section id="content">      

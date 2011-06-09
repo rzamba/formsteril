@@ -16,12 +16,12 @@
       </form>
       <nav>
         <ul class="sf-menu">
-          <li><a href="index.shtml" class="current">home</a></li>
-          <li><a href="quem-somos.shtml">quem somos</a></li>
-          <li><a href="index-2.shtml">serviços</a></li>
-          <li><a href="index-3.shtml">tecnologia</a></li>
-          <li><a href="processos.shtml">processos</a></li>
-          <li><a href="contato.shtml">contato</a></li>
+          <li><a id="home" href="index.shtml" >home</a></li>
+          <li><a id="quemsomos" href="quem-somos.shtml">quem somos</a></li>
+          <li><a id="servicos" href="index-2.shtml">serviços</a></li>
+          <li><a id="tecnologia" href="index-3.shtml">tecnologia</a></li>
+          <li><a id="processos" href="processos.shtml">processos</a></li>
+          <li><a id="contato" href="contato.shtml">contato</a></li>
         </ul>
       </nav>      
 </header>

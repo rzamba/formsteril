@@ -27,7 +27,11 @@
   <div class="main">
   	<!-- header -->
     <!--#include virtual="header.shtml" -->
-    
+      <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#servicos").addClass('current');
+                  });
+      </script>
     
     
     <!-- content -->

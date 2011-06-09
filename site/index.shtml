@@ -36,6 +36,12 @@
   	<!-- header -->
     <!--#include virtual="header.shtml" -->
 
+     <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#home").addClass('current');
+                  });
+      </script>
+
     <!-- content -->
     <section id="content">
     	
@@ -48,7 +54,7 @@
                         <img alt="" src="images/big_pic1.jpg" />                       
                         <div class="info-text">
                             <div class="indent-info">
-                                <h2>Processos</h2>
+                                <h2>Qualidade</h2>
                                 <div class="tail">
                                     Comparitivo entre processos de esterilização, disponívies no mercado.
                                 </div>
@@ -57,26 +63,26 @@
                         </div>                         
                    </div>
                    <div class="div">
-                    <img alt="" src="images/big_pic2.jpg" />
+                    <img alt="" src="images/big_pic3.jpg" />
                       <div class="info-text">
                             <div class="indent-info">
-                                <h2>Research</h2>
+                                <h2>Processos</h2>
                                 <div class="tail">
-                                    Nulla duiuscat  odioravi atcursusec  a <br>
-                                    lorem. Maecenas triue cseuilt pharetra 
-                                    magnonec accumsauada orci.
+                                Prestamos serviços em todo brasil
                                 </div>
-                                <div class="wrapper"><a href="#">Read More</a></div>
+                                <div class="wrapper"><a href="#">Leia mais</a></div>
                             </div>
                         </div>
                    </div>
                    <div class="div">
-                    <img alt="" src="images/big_pic3.jpg" />
+                    <img alt="" src="images/home03.jpg" width="601" height="382" />
                       <div class="info-text">
                             <div class="indent-info">
-                                <h2>Consultoria</h2>
+                                <h2>Tecnologia</h2>
                                 <div class="tail">
-                                Prestamos serviços em todo brasil
+                                    Nulla duiuscat  odioravi atcursusec  a <br>
+                                    lorem. Maecenas triue cseuilt pharetra
+                                    magnonec accumsauada orci.
                                 </div>
                                 <div class="wrapper"><a href="#">Leia mais</a></div>
                             </div>

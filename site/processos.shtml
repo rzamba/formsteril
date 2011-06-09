@@ -28,6 +28,12 @@
   	<!-- header -->
     <!--#include virtual="header.shtml" -->
 
+     <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#processos").addClass('current');
+                  });
+      </script>
+
     <!-- content -->
     <section id="content">
       <!-- .content-box -->
@@ -38,7 +44,7 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure>><img src="images/1page_img2.jpg" width=168" height="120" alt=""></figure>
                                     <h4>1 - Recebimento de Materiais</h4>
                                     <h5>
                                     O material médico-hospitalar recebido passa por uma conferência quantitativa e qualitativa,
@@ -53,7 +59,7 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process02.jpg" alt=""></figure>
                                     <h4>2 – Limpeza e Desinfecção Manual</h4>
                                     <h5>
                                     Os materiais são submetidos a rigorosa limpeza e desinfecção, para posterior secagem com auxílio de pistolas de ar comprimido e estufas qualificadas.
@@ -71,10 +77,10 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process03.jpg" alt=""></figure>
                                     <h4>3 – Limpeza e Desinfecção Automatizada</h4>
                                     <h5>
-                                    A limpeza de produtos que possuem conformações complexas  é  complementada por limpeza automatizada em lavadora ultrassônica com jato pulsátil.
+                                    A limpeza de produtos que possuem conformações complexas  é  complementada por desinfecção automatizada em lavadora ultrassônica com jato pulsátil.
                                     </h5>
                                     <br class="clear" />
                                 </div>
@@ -85,7 +91,7 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process04.jpg" alt=""></figure>
                                     <h4>4 – Preparação e Embalagem</h4>
                                     <h5>
                                     Após a secagem do material é realizada a inspeção visual com auxílio de lupas e
@@ -104,7 +110,7 @@ microscópio digital para posterior embalagem em papel grau cirúrgico e selagem
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process05.jpg" alt=""></figure>
                                     <h4>5 – Rastreabilidade</h4>
                                     <h5>
                                         É realizado um check-list  para atestar a qualidade dos materiais que são encaminhados para esterilização devidamente identificados para possibilitar a sua rastreabilidade.
@@ -118,7 +124,7 @@ microscópio digital para posterior embalagem em papel grau cirúrgico e selagem
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process06.jpg" alt=""></figure>
                                     <h4>6 - Esterilização</h4>
                                     <h5>
                                     O ciclo de esterilização  ocorre em autoclaves certificados com a completa eliminação ou destruição de todas as formas de vida vegetativas e esporuladas através do processo químico.
@@ -136,7 +142,7 @@ microscópio digital para posterior embalagem em papel grau cirúrgico e selagem
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process07.jpg" alt=""></figure>
                                     <h4>7 - Controle de Qualidade</h4>
                                     <h5>
                                     O teste de esterilidade é realizado em todos os lotes através de indicadores químicos e biológico constituído de uma ampola contendo esporos secos de Bacillus atrophaeus.
@@ -150,7 +156,7 @@ microscópio digital para posterior embalagem em papel grau cirúrgico e selagem
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure>
+                                	<figure><img src="images/process08.jpg" alt=""></figure>
                                     <h4>8 – Expedição</h4>
                                     <h5>
                                     A expedição  é uma aréa pressurizada para o completo isolamento das demais áreas. Neste local os materiais esterilizados são conferidos, preparados e encaminhados para o transporte.
@@ -168,7 +174,7 @@ microscópio digital para posterior embalagem em papel grau cirúrgico e selagem
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/processo9.png" alt=""></a></figure>
+                                	<figure><img src="images/processo9.png" alt=""></figure>
                                     <h4>9 – Sistema de Logística de Transporte</h4>
                                     <h5>
                                         Os materiais são conferidos e embalados para o transporte até o cliente em veículos próprios  e adaptados para o transporte de material limpo e sujo separadamente.
