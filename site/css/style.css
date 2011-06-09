@@ -59,7 +59,7 @@ aside.bottom ul li {
 	height:1%;
 }
 	aside.bottom ul li a {
-		color:#fff;
+		color:#ccc;
 		font-weight:bold;
 		font-size:1em;
 		text-decoration:none;
@@ -108,7 +108,7 @@ aside.bottom ul li {
 		color:#606060;
 		}
 		footer .container {
-			border-top:1px solid #434343;
+			border-top:1px solid #ccc;
 			margin: 0 auto;
 			position: relative;
 			width: 960px;
@@ -128,7 +128,7 @@ footer {
 		text-decoration:none;
 	}
 		footer span {
-			color:#606060;
+			color:#ccc;
 		}
 
 

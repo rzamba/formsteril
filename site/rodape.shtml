@@ -40,7 +40,7 @@
   <footer>
     <div class="container">
         <div class="indent">
-          <span>Form Steril</span> &copy; 2011 &nbsp;<!-- {%FOOTER_LINK} -->
+          <span>Form Steril &copy; 2011 &nbsp;</span><!-- {%FOOTER_LINK} -->
         </div>
     </div>
  </footer>
