@@ -4,23 +4,23 @@
             <div class="container_16 bg wrapper">
                 <div class="grid_3">
                 <ul>
-                  <li><a href="#">Our Staff</a></li>
-                  <li><a href="#">Did you know?</a></li>
-                  <li><a href="#">Our Articles</a></li>
+                  <li><a href="quem-somos.shtm">Quem somos</a></li>
+                  <li><a href="index-2.shtml">Serviços</a></li>
                 </ul>
               </div>
-                <div class="grid_3">
+              <div class="grid_3">
                 <ul>
-                   <li><a href="#">On-line Consultation</a></li>
-                  <li><a href="#">FAQs</a></li>
+                  <li><a href="index-3.shtml">Tecnologia</a></li>
+                  <li><a href="processos.shtml">Processos</a></li>
                 </ul>
               </div>
-                <div class="grid_3">
+              <div class="grid_3">
                 <ul>
-                  <li><a href="#">Special Solutions</a></li>
-                  <li><a href="#">Hot News</a></li>
+                  <li><a href="faq.shtml">FAQs</a></li>
+                    <li><a href="contato.shtml">Contato</a></li>
                 </ul>
               </div>
+
                 <div class="grid_6">
                 	<h2>Extranet</h2>
                		 <form action="" id="newsletter-form">

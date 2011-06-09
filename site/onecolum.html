@@ -26,32 +26,13 @@
 <body>
   <div class="main">
   	<!-- header -->
-    <header>
-    	<!-- .logo -->
-    	<div class="logo">
-      	<a href="index.shtml"><img src="images/logo.gif" alt=""></a>
-      </div>
-    	<!-- /.logo -->
-      <form action="" id="login-form"><div class="rowElem1"><input type="text" class="input" value="Search" onBlur="if(this.value=='') this.value='Search'" onFocus="if(this.value =='Search' ) this.value=''"  /><a href="#" onClick="document.getElementById('login-form').submit()"><img alt="" src="images/button.gif" /></a></div></form>
-      <nav>
-        <ul class="sf-menu">
-          <li><a href="index.shtml">home</a></li>
-          <li><a href="index-1.shtml">about us</a>
-          	<ul>
-            	<li><a href="quem-somos.shtml">Lorem ipsum dolor </a></li>
-              	<li><a href="quem-somos.shtml">Nulla quis metus</a></li>
-              	<li><a href="quem-somos.shtml">Vestibulum in velit</a></li>
-              	<li><a href="quem-somos.shtml">Vivamus nisi massa</a></li>
-              	<li><a href="quem-somos.shtml">Nullam commodo</a></li>
-            </ul>
-          </li>
-          <li><a href="index-2.shtml">services</a></li>
-          <li><a href="index-3.shtml">our staff</a></li>
-          <li><a href="index-4.shtml">partners</a></li>
-          <li><a href="contato.shtml">contacts</a></li>
-        </ul>
-      </nav>
-    </header>
+   <!-- header -->
+    <!--#include virtual="header.shtml" -->
+      <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#home").addClass('current');
+                  });
+      </script>
 
 
 
