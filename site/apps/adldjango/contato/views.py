@@ -10,7 +10,7 @@ def enviarcontato(request):
        
     if subject and from_email:
         try:
-            email = EmailMessage(subject, message, from_email, ['pedroapm@globo.com','rzamba@gmail.com'])
+            email = EmailMessage(subject, message, from_email, ['contato@formsteril.com.br'])
             email.send()            
         except BadHeaderError:
             return HttpResponse("500 bad request")
