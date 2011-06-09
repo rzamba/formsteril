@@ -65,7 +65,8 @@ aside.bottom ul li {
 		text-decoration:none;
 	}
 	aside.bottom ul li a:hover {
-		color:#52524c;
+		color:#fff;
+        text-decoration:underline;
 	}
 	
 	aside.bottom .social-services {
@@ -1170,10 +1171,10 @@ header .twitter-link {
 
 #loopedSlider .info-text{ width:340px; height:391px; line-height:1.42em; font-size:14px;}
 #loopedSlider .indent-info{padding:55px 23px 25px 45px;}
-#loopedSlider .info-text h2{ color:#fff; font-size:48px; border-bottom:1px solid #37d7d8; margin-bottom:21px; padding-bottom:21px}
-#loopedSlider .info-text .tail{ border-bottom:1px solid #30d1dc; margin-bottom:21px; padding-bottom:95px;}
+#loopedSlider .info-text h2{ color:#fff; font-size:48px; border-bottom:1px solid #CCCCCC; margin-bottom:21px; padding-bottom:21px}
+#loopedSlider .info-text .tail{ border-bottom:1px solid #CCCCCC; margin-bottom:21px; padding-bottom:95px;}
 #loopedSlider .info-text a{ color:#fff; font-size:24px; background:url(../images/marker5.png) top left no-repeat; padding-left:30px; text-decoration:none; float:right}
-#loopedSlider .info-text a:hover{ color:#0affc9; text-decoration:none}
+#loopedSlider .info-text a:hover{ color:#fff; text-decoration:none}
 
 /*
  * Optional
@@ -2004,12 +2005,14 @@ a.aToolTipCloseBtn {
 
 .sf-menu a.current	  { /* visited pseudo selector so IE6 applies text colour*/
 	background: url(../images/bg_menu-act.gif);
-	color:#c9c9c9;
+	color:#000000;
+    font-weight:bold;
 }
 
 .sf-menu a:hover, .sf-menu a.current	  { /* visited pseudo selector so IE6 applies text colour*/
 	background: url(../images/bg_menu-act.gif);
-	color:#c9c9c9;
+	color:#FFFFFF;
+    font-weight:bold;
 }
 
 
