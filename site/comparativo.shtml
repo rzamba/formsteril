@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Home page</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Your description">
+  <meta name="keywords" content="Your keywords">
+  <meta name="author" content="Your name">
+  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+
+  <!-- styles for prettyPhoto -->
+  <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="all">
+
+  <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="js/script.js"></script>
+
+  <script type="text/javascript" src="js/cufon-yui.js"></script>
+  <script type="text/javascript" src="js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="js/cufon-replace.js"></script>
+  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+  <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+</head>
+
+<body>
+  <div class="main">
+  	<!-- header -->
+   <!-- header -->
+    <!--#include virtual="header.shtml" -->
+      <script type="text/javascript">
+                  $(document).ready(function(){
+                      $("#home").addClass('current');
+                  });
+      </script>
+
+
+
+    <!-- content -->
+    <section id="content">
+      <!-- .content-box -->
+        <div class="content-box">
+            <div class="container_16">
+                <div class="wrapper">
+                    <div class="grid_16">
+                        <h2 id="full_width">Comparativo entre os processos de esterilização</h2>
+                        <table>
+                            <thead>
+                            <th style="width:25%;vertical-align:middle;">Baixa Temperatura por Sublimação de Paraformaldeído Sólido <br/>(BTSPS - processo Pres Switch &reg;)</th>
+                            <th style="width:25%;vertical-align:middle;">Vapor a Baixa Temperatura e Formaldeído (VBTF)</th>
+                            <th style="width:25%;vertical-align:middle;">Plasma de Peróxido de Hidrogênio</th>
+                            <th style="width:25%;vertical-align:middle;">Gás de Óxido de Etileno</th>
+                            </thead>
+                            <tbody>
+                                <tr><td colspan="4" style="background-color:#cccccc;font-weight:bold;text-align:center;">CICLO COMPLETO DE ESTERILIZAÇÃO</td></tr>
+                                <tr><td style="color:blue;">Ciclo de 60 a 180 minutos a baixa temperatura ou 15 a 20  minutos no ciclo vapor para termo-resistentes</td>
+                                    <td style="color:red;">Ciclo de 8 a 16 horas a baixa temperatura</td>
+                                    <td style="color:blue;">Ciclo de 50 a 90 minutos a baixa temperatura</td>
+                                    <td style="color:red;" >Em torno de 72 a  84 horas de processo</td></tr>
+                                <tr><td colspan="4" style="background-color:#cccccc;font-weight:bold;text-align:center;">AUTOCLAVES</td></tr>
+                                <tr>
+                                    <td style="color:blue;">1) Alta capacidade de produção por ciclo;<br/>2) Equipamentos nacionais; <br/> 3) Opera de forma combinada possuindo também a opção do ciclo a vapor para termo-resistentes.</td>
+                                    <td  style="color:red;" ><span style="color:blue;">1) Alta capacidade de produção por ciclo;</span><br/> 2) Equipamentos importados com alto custo.</td>
+                                    <td  style="color:red;" >1) Baixa capacidade de produção por ciclo (máximo de 100 litros);<br/> 2) Equipamentos Importados com alto custo.</td>
+                                    <td  style="color:red;" >1) Não podem ser instalados em perímetro urbano;<br/> 2) Danos ao meio ambiente quando manipulado erroneamente ;<br/> 3) Custo alto do equipamento.</td></tr>
+                                <tr><td colspan="4" style="background-color:#cccccc;font-weight:bold;text-align:center;">INSUMOS</td></tr>
+                                <tr>
+                                    <td style="color:blue;">1) Não requer nenhum cuidado especial quanto ao manuseio e armazenagem;<br/> 2) Baixo custo dos insumos do processo; <br/> 3)Paraformoldeido, embalagem, integradores químicos e biológicos podem ser adquiridos diretamente com os mais variados fornecedores</td>
+                                    <td style="color:red;">1) Devem ser manuseados e armazenadas em ambientes controlados e confinados contra riscos de acidentes e vazamentos;<br/> 2) Custo alto dos insumos do processo; <br/> 3) Principais insumos fornecidos pelo fabricante</td>
+                                    <td style="color:red;"><span style="color:blue;">1) Não requer nenhum cuidado especial quanto ao manuseio e armazenagem</span>;<br/> 2) Custo muito alto dos insumos do processo; <br/> 3) Principais insumos fornecidos pelo fabricante</td>
+                                    <td style="color:red;">1) Os médicos, enfermeiras e auxiliares, que manipulam as embalagens nas inúmeras vezes que realizam cirurgias, superam os limites mínimos de exposição ao resíduo contido na embalagem;<br/> 2) Tóxico para o manipulador </td></tr>
+                            </tbody>
+                        </table>
+                        <br/>
+                        <br/>
+                    </div>
+                </div>
+            </div>
+        </div>
+      <!-- /.content-box -->
+    </section>
+  </div>
+  <!-- aside -->
+  <!--#include virtual="rodape.shtml" -->
+</body>
+</html>
