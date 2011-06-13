@@ -6,20 +6,21 @@
   <meta name="description" content="Your description">
   <meta name="keywords" content="Your keywords">
   <meta name="author" content="Your name">
-  <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
-  <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
-  <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
 
   <!-- styles for prettyPhoto -->
-  <link rel="stylesheet" href="css/prettyPhoto.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/prettyPhoto.css" type="text/css" media="all">
 
-  <script type="text/javascript" src="js/jquery-1.3.2.min.js"></script>
-  <script type="text/javascript" src="js/script.js"></script>
+  <script type="text/javascript" src="../js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="../js/script.js"></script>
 
-  <script type="text/javascript" src="js/cufon-yui.js"></script>
-  <script type="text/javascript" src="js/Lane_-_Narrow_400.font.js"></script>
-  <script type="text/javascript" src="js/cufon-replace.js"></script>
-  <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
+  <script type="text/javascript" src="../js/cufon-yui.js"></script>
+  <script type="text/javascript" src="../js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="../js/cufon-replace.js"></script>
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
 </head>
 
@@ -27,14 +28,8 @@
   <div class="main">
   	<!-- header -->
    <!-- header -->
-    <!--#include virtual="header.shtml" -->
-      <script type="text/javascript">
-                  $(document).ready(function(){
-                      $("#home").addClass('current');
-                  });
-      </script>
-
-
+    <!--#set var="onde" value="home" -->
+    <!--#include virtual="../header.shtml" -->
 
     <!-- content -->
     <section id="content">
@@ -81,6 +76,6 @@
     </section>
   </div>
   <!-- aside -->
-  <!--#include virtual="rodape.shtml" -->
+  <!--#include virtual="../rodape.shtml" -->
 </body>
 </html>

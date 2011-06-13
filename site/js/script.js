@@ -75,58 +75,58 @@ jQuery.extend({
 });
 
 ///// include js files ////////////
- $.include('js/coin-slider.js');
+ $.include('/js/coin-slider.js');
   <!-- floatdialog block -->
-	$.include('js/floatdialog.js');
+	$.include('/js/floatdialog.js');
 			   
   <!-- floatdialog block -->
   <!-- superfish menu begin -->
-	$.include('js/hoverIntent.js');
-	$.include('js/superfish.js');
+	$.include('/js/hoverIntent.js');
+	$.include('/js/superfish.js');
   <!-- superfish menu end -->
   
   <!-- tooltip begin -->
-	$.include('js/atooltip.jquery.js');
+	$.include('/js/atooltip.jquery.js');
   <!-- tooltip end -->
   
   
   <!-- contact form begin -->
-	$.include('js/runonload.js');
-	$.include('js/contact-form.js');
+	$.include('/js/runonload.js');
+	$.include('/js/contact-form.js');
   <!-- contact form end -->
   
-	$.include('js/scrollTop.js');
-	$.include('js/flashobject.js');
+	$.include('/js/scrollTop.js');
+	$.include('/js/flashobject.js');
 	
   <!-- tabs begin -->
-	$.include('js/tabs.js');
+	$.include('/js/tabs.js');
   <!-- tabs end -->
   
   <!-- hover-image begin -->
-	$.include('js/hover-image.js');
+	$.include('/js/hover-image.js');
   <!-- hover-image -->
 
   <!-- prettyPhoto begin -->
-	$.include('js/jquery.prettyPhoto.js');
+	$.include('/js/jquery.prettyPhoto.js');
   <!-- prettyPhoto end-->
   
   
   <!-- gallery -->
-  $.include('js/jquery.galleriffic.js');
-  $.include('js/jquery.opacityrollover.js');
+  $.include('/js/jquery.galleriffic.js');
+  $.include('/js/jquery.opacityrollover.js');
   <!-- gallery -->
   
  
   
 	<!-- twitter -->
-	$.include('js/jquery.twitter.search.js');
+	$.include('/js/jquery.twitter.search.js');
 	<!-- twitter -->
 	
 	
-	$.include('js/jquery.cycle.all.latest.js');
+	$.include('/js/jquery.cycle.all.latest.js');
  
 	<!-- tooltip begin -->
-	$.include('js/kwicks-1.5.1.pack.js');
+	$.include('/js/kwicks-1.5.1.pack.js');
 	<!-- tooltip end -->  
 
 	  
@@ -262,7 +262,7 @@ jQuery.extend({
 				
 			$(document).ready(function(){
 				if ($("#shuffle").length) {	
-					$.include('js/jquery.easing.1.3.js');
+					$.include('/js/jquery.easing.1.3.js');
 						$('#shuffle').cycle({
 							fx:     'shuffle',
 							easing: 'backout',

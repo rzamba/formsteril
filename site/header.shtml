@@ -1,7 +1,7 @@
 <header>
     	<!-- .logo -->
       <div class="logo">
-      	<a href="index.shtml"><img src="images/logo-form.png" alt=""></a>
+      	<a href="/"><img src="../images/logo-form.png" alt=""></a>
      
       </div>
 
@@ -11,17 +11,17 @@
               <INPUT TYPE=hidden name=hl value="pt-br">
               <input name="q" type="text" class="input" value="Buscar no google" onBlur="if(this.value=='') this.value='Buscar no google'" onFocus="if(this.value =='Buscar no google' ) this.value=''"  />
               <a href="#" onClick="document.getElementById('login-form').submit()">
-                  <img alt="" src="images/button.gif" /></a>
+                  <img alt="" src="/images/button.gif" /></a>
           </div>
       </form>
       <nav>
         <ul class="sf-menu">
-          <li><a id="home" href="index.shtml" >home</a></li>
-          <li><a id="quemsomos" href="quem-somos.shtml">quem somos</a></li>
-          <li><a id="servicos" href="index-2.shtml">serviços</a></li>
-          <li><a id="tecnologia" href="index-3.shtml">tecnologia</a></li>
-          <li><a id="processos" href="processos.shtml">processos</a></li>
-          <li><a id="contato" href="contato.shtml">contato</a></li>
+          <li><a id="home" <!--#if expr="$onde=home" -->class="current"<!--#endif --> href="/" >home</a></li>
+          <li><a id="quemsomos"  <!--#if expr="$onde=quemsomos" -->class="current"<!--#endif --> href="/quemsomos">quem somos</a></li>
+          <li><a id="servicos" <!--#if expr="$onde=servicos" -->class="current"<!--#endif --> href="/servicos">serviços</a></li>
+          <li><a id="tecnologia" <!--#if expr="$onde=tecnologia" -->class="current"<!--#endif --> href="/tecnologia">tecnologia</a></li>
+          <li><a id="processos" <!--#if expr="$onde=processos" -->class="current"<!--#endif --> href="/processos">processos</a></li>
+          <li><a id="contato" <!--#if expr="$onde=contato" -->class="current"<!--#endif --> href="/contato">contato</a></li>
         </ul>
       </nav>      
 </header>
