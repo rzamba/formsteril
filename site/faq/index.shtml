@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home page</title>
+  <title>Form Steril - Perguntas e Repostas frequentes FAQ</title>
   <meta charset="utf-8">
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your keywords">
+  <meta name="description" content="Perguntas e Repostas frequentes">
+  <meta name="keywords" content="perguntas,respostas, frequentes, vantagens,ISO,processo">
   <meta name="author" content="Your name">
   <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
@@ -22,6 +22,7 @@
   <!--[if lt IE 9]>
     <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
 </head>
 
 <body>
@@ -37,105 +38,238 @@
             <div class="container_16">
                 <div class="wrapper">
                     <div class="grid_16">
-                        <h1 id="full_width">Perguntas e respostas frequentes</h1>
+                        <h2 id="full_width">FAQ: Lista de respostas às perguntas mais frequentes</h2>
                         <ul class="list1">
-                                <li><a href="#faq1"><span style="font-size:15px;">Como posso contratar os serviços da Form Steril ?</span></a></li>
-                                <li><a href="#faq2"><span style="font-size:15px;">Como posso acompanhar a esterilização do material enviado ?</span></a></li>
+                                <li><a href="#faq1"><span style="font-size:15px;">O que é FAQ?</span></a></li>                                                                <li><a href="#faq2"><span style="font-size:15px;">O que é  uma CME?</span></a></li>
+                                <li><a href="#faq3"><span style="font-size:15px;">O que é um Processo de Esterilização?</span></a></li>
+                                <li><a href="#faq4"><span style="font-size:15px;">Quais são as diferenças entre os processos de esterilização Físico e Químico?</span></a></li>
+                                <li><a href="#faq5"><span style="font-size:15px;">Quais são os processos de esterilização existentes?</span></a></li>
+                                <li><a href="#faq6"><span style="font-size:15px;">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</span></a></li>
+                                <li><a href="#faq7"><span style="font-size:15px;">O que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a></li>
+                                <li><a href="#faq8"><span style="font-size:15px;">Quais são as diferenças básicas entre o Formaldeído e o Paraformaldeído?</span></a></li>
+                                <li><a href="#faq9"><span style="font-size:15px;">Qual é o tempo do ciclo completo de esterilização pelo processo da Form Steril®?</span></a></li>
+                                <li><a href="#faq10"><span style="font-size:15px;">O processo de esterilização por Paraformaldeído Sólido é mais econômico?</span></a></li>
+                                <li><a href="#faq11"><span style="font-size:15px;">Quais são os insumos e a segurança no Processo por Paraformaldeído?</span></a></li>
+                                <li><a href="#faq12"><span style="font-size:15px;">O processo de esterilização por paraformaldeído é carcinogênico, mutagênico, ou seja provoca câncer?</span></a></li>
+                                <li><a href="#faq13"><span style="font-size:15px;">Quais são os riscos de esterilização com o processo de Óxido de Etileno?</span></a></li>
+                                <li><a href="#faq14"><span style="font-size:15px;">Qual o nível de toxidade do Processo por Óxido de Etileno?</span></a></li>
+                                <li><a href="#faq15"><span style="font-size:15px;">Existe toxidade no processo por Paraformaldeído?</span></a></li>
+                                <li><a href="#faq16"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</span></a></li>
+                                <li><a href="#faq17"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Plasma de Peróxido de Hidrogênio?</span></a></li>
+                                <li><a href="#faq18"><span style="font-size:15px;">O processo de esterilização por paraformaldeído é aprovado pela ANVISA?</span></a></li>
+                                <li><a href="#faq19"><span style="font-size:15px;">Qual é a experiência da Form Steril® no processo de esterilização por Paraformaldeído?</span></a></li>
+                                <li><a href="#faq20"><span style="font-size:15px;">Quais são as normas ISO do processo de esterilização da Form Steril®?Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</span></a></li>
+                                <li><a href="#faq21"><span style="font-size:15px;">Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</span></a></li>
+                                <li><a href="#faq22"><span style="font-size:15px;">Como é que funciona o processo de esterilização por paraformaldeído da Form Steril®?</span></a></li>
+                                <li><a href="#faq23"><span style="font-size:15px;">Como é validado o processo de esterilização da Form Steril®?</span></a></li>
+                                <li><a href="#faq24"><span style="font-size:15px;">Quais os princípios que fundamentam a terceirização do processo de esterilização?</span></a></li>
+                                <li><a href="#faq25"><span style="font-size:15px;">Como posso contratar os serviços da Form Steril®?</span></a></li>
                         </ul>
                         <br/><br/>
                         <!-- pergunta -->
-                        <a name="faq1" class="normaltip" ><span style="font-size:15px;">Como posso contratar os serviços da Form Steril ?</span></a>
-                        <p> Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum
+                        <a name="faq1" class="normaltip" ><span style="font-size:15px;">O que é FAQ?</span></a>
+                        <p>
+                            FAQ é uma sigla em inglês correspondente a <b>Frequently Asked Questions</b>, ou “Questões Frequentemente Formuladas”. Trata-se basicamente de um conjunto de perguntas comuns sobre um determinado assunto, acompanhadas das respectivas respostas ou indicações de onde procurá-las.
                         </p>
                         <!-- fim pergunta -->
                         <!-- pergunta -->
-                        <a name="faq2" class="normaltip" ><span style="font-size:15px;">Como posso acompanhar a esterilização do material enviado ?</span></a>
-                        <p> Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum<br/>
-                        Simples como lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum lorem ispsum
+                        <a name="faq2" class="normaltip" ><span style="font-size:15px;">O que é  uma CME?</span></a>
+                        <p>
+                            CME significa <b>Central de Material Esterilizado</b> que é a área responsável pela limpeza e processamento de artigos e instrumentais médico-hospitalares. É na CME que se realiza o controle, o preparo, a esterilização e a distribuição dos materiais hospitalares.
                         </p>
                         <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq3" class="normaltip" ><span style="font-size:15px;">O que é um Processo de Esterilização?</span></a>
+                        <p>Processo de esterilização é o processo de limpeza, desinfecção, inspeção, e embalagem apropriada, para a inviabilização de vida de bactérias vegetativas ou em forma de esporos e qualquer outro micro organismo que possa existir no produto a ser esterilizado.</p>
+                        <p> Para quantificar a qualidade deste processo o parâmetro utilizado são os integradores biológicos, com meios de cultura e esporos resistentes com mais de 1.000.000, um milhão de indivíduos.</p>
+                        <p>Estes testes são conhecidos na sigla inglesa como SAL (Security Level Sterile), ou como NSE (Nível de Seguridade Estéril) cuja escala logarítmica é de 10-6 e são regulamentados pela norma ISO 11.138</p>
+                        <p>Para o controle imediato existem os integradores químicos, que possuem faixas de seguridade do processo regulamentado pela norma ISO 11.140</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq4" class="normaltip" ><span style="font-size:15px;">Quais são as diferenças entre os processos de esterilização Físico e Químico?</span></a>
+                        <p>Físico: O agente esterilizante é um produto controlado por sua ação de mudança do estado energético, com a alteração somente de suas características físicas tais como; Calor Latente, Calor Sensível, Temperatura, Ponto de fusão, Ponto de ebulição, Propriedades isentrópicas, Volume especifico, Entalpias, Massa atômica... etc.</p>
+                        <p>Ex: Água em forma de vapor saturado, Radiação gama de cobalto, Estufa a ar com Calor seco acima de 220°C</p>
+                        <p>Químico: O agente esterilizante é composto por dois elementos químicos sendo, um o agente e o outro reagente, que quando um em presença do outro, sobre determinadas condições, tem a sua estrutura molecular original alterada por uma reação química covalente dativa, transformando-se em outros elementos químicos liberandos radicais ionizáveis com alto poder de reação, podendo ser esta reação catalisada e potencializada por parâmetros físicos como; temperatura, pressão, PH condutividade, entre outros.</p>
+                        <p>Ex. Resina epóxica de oxido de etileno (ETO), peróxido de hidrogênio (solução concentrada de água oxigenada), solução de formalina com álcool estabilizado com ligação no carbono primário do radical carboxila, paraformaldeído sólido... etc.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq5" class="normaltip" ><span style="font-size:15px;">Quais são os processos de esterilização existentes?</span></a>
+                        <p>
+                            <ul>
+                            <li>Método físico:<ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                                <li>Autoclave a vapor</li>
+                            </ul></li>
+                            <li>Métodos físico-químico:
+                            <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                                <li>Óxido de etileno (ETO)</li>
+                                <li>Plasma de Peróxido de Hidrogênio (PPH)</li>
+                                <li>Vapor a Baixa Temperatura e Formaldeído (VBTF)</li>
+                                <li>Vapor a Baixa Temperatura e Paraformaldeído (VBTP)®</li>
+                            </ul></li>
+                            </ul>
+                        </p><br/>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq6" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</span></a>
+                        <p>
+                            <a href="../comparativo">Clique aqui</a> e veja o quadro comparativo entre os processos de esterilização existentes.
+                        </p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq7" class="normaltip" ><span style="font-size:15px;">O que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a>
+                        <p>O processo de esterilização Vapor por Baixa Temperatura e Paraformaldeído (VBTP) ® se difere dos demais métodos de formaldeído (VBTF) por ter a sua reação catalisada num reator que promove o super aquecimento da gaseificação potencializando o efeito de capilaridade do gás do paraformaldeído sublimado, aumentando a qualidade estéril e reduzindo o tempo de exposição dos artigos.</p>
+                        <p>O processo atinge seguridade estéril para os materiais de pequenos lumens (cateteres) devido a sua alta eficiência de penetração por efeito de capilaridade e possui um alcance de seguridade estéril com níveis bem superiores aos processos de formaldeído (VBTF), de Óxido de Etileno (ETO) e  Peróxido de Hidrogênio (água oxigenada concentrada).</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq8" class="normaltip" ><span style="font-size:15px;">Quais são as diferenças básicas entre o Formaldeído e o Paraformaldeído?</span></a>
+                        <p>As diferenças básicas entre o processo de formaldeído e paraformaldeído é que o formol pode ser mantido tanto no estado liquido como no estado sólido. O Formol em estado liquido estabilizado com 30% de metanol é conhecido como formalina, que é um agente esterilizante muito utilizado na Europa e nos equipamentos de esterilização.</p>
+                        <p>A formalina liquida é conhecida como formaldeído e é fornecida em embalagem comercial com dosagem especifica para a utilização nas autoclaves européias, e devem ser manuseadas e armazenadas em ambientes controlados e confinados contra riscos de acidentes e vazamentos.</p>
+                        <p>A formalina granulada em estado sólido é conhecida como paraformaldeído e sua utilização em processo de esterilização nos autoclaves produzidos pela Form Steril®, não requer nenhum cuidado especial, quanto ao manuseio e armazenagem, apenas proteção de luvas, e armazenagem em ambientes secos e hermeticamente fechados, como caixas plásticas ou similares.</p>
+
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq9" class="normaltip" ><span style="font-size:15px;">Qual é o tempo do ciclo completo de esterilização pelo processo da Form Steril®?</span></a>
+
+                        <p>As autoclaves desenvolvidas pela Form Steril® possuem a vantagem de trabalharem de forma combinada, ou seja, uma mesmo autoclave pode esterilizar materiais termo-resistentes pelo método a vapor ou materiais termo-sensíveis pelo método do paraformaldeído.</p>
+                        <p>As autoclaves da Form Steril® quando operadas na modalidade do método a vapor esterilizam os materiais termo-resistentes no tempo máximo de 15 a 20 minutos contra o tempo de 100 a 120 minutos das autoclaves concorrentes nacionais.  As autoclaves a vapor nacionais ou importadas que trabalhem no mesmo tempo das autoclaves da Form Steril® possuem manutenção, preço de aquisição e insumos muito mais elevados refletindo no preço final dos serviços de esterilização.</p>
+                        <p>Outro ponto importante é que tanto as autoclaves a vapor nacionais e/ou importados não trabalham de forma combinada, ou seja, método a vapor ou a formaldeído, gerando a necessidade de se ter autoclaves específicos e consequentemente mais espaço para autoclaves, além da impossibilidade de atuarem como back-up um do outro, gerando custos de aquisição, manutenção e espaços adicionais.</p>
+                        <p>Para a esterilização dos materiais termo-sensíveis as autoclaves da Form Steril® são programadas facilmente para trabalharem no processo de paraformaldeído e com capacidade para até 1.000 litros. O tempo máximo de esterilização é de 180 minutos (3 horas), podendo este tempo ser reduzido para 120 minutos (2 horas) se o ciclo de esterilização da autoclave for programado para 60 graus Celsius.</p>
+                        <p>As autoclaves similares que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) utilizam a formalina líquida estabilizada em solução de metanol e possuem ciclos de esterilização mais prolongados em torno de 8 a 16 horas.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq10" class="normaltip" ><span style="font-size:15px;">O processo de esterilização por Paraformaldeído Sólido é mais econômico?</span></a>
+                        <p>O processo de esterilização por formol em estado sólido granulado (Paraformaldeído) é muito mais seguro e econômico do que o realizado por formol líquido (Formaldeído).</p>
+                        <p>Os insumos necessários para a operacionalização das autoclaves da Form Steril®, como: materiais de controle de processo como integradores químicos, biológicos, embalagem, e paraformaldeído são de uso corrente no mercado nacional e podem ser adquiridos diretamente com os mais variados fornecedores, tais como: BRASMO, COSMOQUIMICA, HERZOG, SAED, BROWNE, HAVEN, TOSI, AMCOR, BIOTECNICA, entre outros. Por ter os mais variados fornecedores de boa qualidade e pronta entrega, estes insumos possuem custos bastante reduzidos, resultando num reprocessamento de alta confiabilidade, rapidez, e baixo custo.</p>
+                        <p>Por sua vez os insumos utilizados pelas autoclaves da concorrência, em sua grande maioria, estão sujeitos ao fornecimento exclusivo pelos fabricantes das autoclaves, resultando em custos operacionais muito mais elevados.</p>
+                        <p>Outro ponto importante é que as autoclaves que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) ou Peróxido de Hidrogênio são importadas, com a exceção de uma empresa que importa as peças e realiza a montagem de suas autoclaves no Brasil. Estas autoclaves para materiais termo-sensíveis possuem custos elevados de aquisição e manutenção, e muitas vezes possuem problemas de parada operacional por falta de peças de reposição que são importadas.</p>
+
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq11" class="normaltip" ><span style="font-size:15px;">Quais são os insumos e a segurança no Processo por Paraformaldeído?</span></a>
+                        <p>O processo de esterilização por formol em estado sólido granulado (Paraformaldeído) é muito mais seguro do que os demais processos de esterilização.</p>
+                        <p>A autoclave da Form Steril® não requer nenhum cuidado especial quanto ao manuseio e armazenagem, apenas proteção de luvas, e armazenagem em ambientes secos e hermeticamente fechados, como caixas plásticas ou similares. A dosagem é feita em uma balança comum com grandeza escalar em gramas, e a pesagem é realizada de acordo com o equipamento a ser utilizado no processo.</p>
+                        <p>Por sua vez o processo concorrente por formaldeído tem o seu insumo fornecido em embalagem comercial com dosagem especifica para a utilização nas autoclaves importadas, e devem ser manuseadas e armazenadas em ambientes controlados e confinados contra riscos de acidentes e vazamentos.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq12" class="normaltip" ><span style="font-size:15px;">O processo de esterilização por paraformaldeído é carcinogênico, mutagênico, ou seja provoca câncer?</span></a>
+                        <p>O processo de esterilização por Vapor a Baixa Temperatura e Paraformaldeído (VBTP) ® não é carcinogênico, mutagênico, como o processo por gás ETO, sobre tudo não deixa residual nas embalagens de grau cirúrgico, pois o paraformaldeído se volatiliza com a presença da umidade relativa do ar.</p>
+                        <p>Outro fator muito importante é que o paraformaldeído não é acumulativo no organismo humano, ou seja, o seu excesso é rapidamente eliminado pelo metabolismo orgânico da transpiração sudorípara, fezes e vias renais.</p>
+                        <p>O formaldeído existe naturalmente na atmosfera, alimentos que ingerimos e no corpo humano ele é essencial, para o desenvolvimento do metabolismo orgânico e, sua presença se faz através do acido fólico, portanto o formaldeído é cientificamente comprovado como o processo químico de esterilização mais seguro de que se tem conhecimento. Tanto é seguro que não há restrições para que mulheres em idade fértil possam trabalhar nas Centrais de Materiais, que utilizam formaldeído, diferentemente do processo por gás de ETO que é extremamente agressivo e acumulativo no organismo humano.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq13" class="normaltip" ><span style="font-size:15px;"> Quais são os riscos de esterilização com o processo de Óxido de Etileno?</span></a>
+                        <p>As empresas que utilizam o processo por Gás de Óxido de Etileno (ETO) devem ter um índice residual abaixo de 25 PPM, com processo de limpeza e “lavagem” da carga em 36 horas e aeração superior a 48 horas, conforme Portaria Interministerial 482/MS/MTE/16 abril de 1999, D.O.U.19/04/99, totalizando 72 a 84 horas de processo de esterilização.</p>
+                        <p>O processo por Gás de Óxido de Etileno (ETO) é muito demorado e tem como consequências riscos ambientais e a saúde ocupacional para os operadores, assim como para os usuários do produto esterilizado. O paciente é submetido uma única vez ao resíduo da embalagem dos produtos esterilizados por ETO. Já os médicos, enfermeiras e auxiliares, que manipulam as embalagens nas inúmeras vezes que realizam cirurgias, superam os limites mínimos de exposição ao resíduo contido na embalagem.</p>
+
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq14" class="normaltip" ><span style="font-size:15px;">Qual o nível de toxidade do Processo por Óxido de Etileno?</span></a>
+                        <p>Os resíduos da resina epóxica do gás de ETO é acumulativa, ou seja, não são eliminadas pelo organismo humano, podendo formar ao longo do tempo, acúmulos que podem resultar em graves problemas de saúde ocupacional, enquanto o paraformaldeído contrariamente ao ETO se faz necessário para o metabolismo do organismo humano (acido fólico), sendo o excesso eliminado pelo próprio organismo, mantendo o equilíbrio da presença do paraformaldeído nos limites aceitáveis do corpo humano.</p>
+                        <p>Pela Comunidade Européia Norma ISO 10.993-7 índice residual abaixo de 60mg com tempo de umidificação da carga, exposição ao agente ETO, e limpeza de 24 horas e 48 de aeração, totalizando 72 horas de processo (3 dias), mais um dia de coleta e outro de preparação , e finalmente  expedição e entrega ao cliente perfazendo o mínimo de 6 dias, o que normalmente não ocorre em comprimento de nenhuma das normas acima, pois a maioria dos processos são realizados com o tempo de umidificação ,exposição e limpeza de 12 horas  aeração de 24 horas, reduzindo o período de retirada e entrega dos materiais hospitalares  para três ou quatro dias.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq15" class="normaltip" ><span style="font-size:15px;">Existe toxidade no processo por Paraformaldeído?</span></a>
+                        <p>No processo de esterilização por paraformaldeído da Form Steril® não há toxidade alguma, pois não existe a formação de resíduo tóxico na embalagem, diferentemente do processo por gás ETO, que deve ter índice abaixo de 25 PPM, com processo de limpeza e “lavagem” da carga em 36 horas e aeração superior a 48 horas, conforme Portaria Interministerial 482/MS/MTE/16 abril de 1999, D.O.U.19/04/99, totalizando 84 horas de processo.</p>
+                        <p>Pela Comunidade Européia Norma ISO 10.993-7 índice abaixo de 60mg com tempo de limpeza de 24 horas e 48 de aeração, totalizando 72 horas de processo.</p>
+                        <p>Na presença da água o paraformaldeído se transforma em acido fórmico = HCO-OH, (agente químico esterilizante) sendo o íon hidroxila (-OH) altamente reativo, e interage com os componentes vitais dos micros organismos levando os a letalidade.</p>
+                        <p>Conforme a reação química do processo é comprovada, que o resíduo final de cada ciclo do reprocessamento dos materiais e tão somente dióxido de carbono e água podendo ser eliminando em efluentes de esgoto comum.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq16" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</span></a>
+                        <p>O processo de esterilização da Form Steril® além de possuir um custo mais baixo, menor tempo de esterilização e maior seguridade estéril, comprovou aos hospitais que passaram a utilizar este processo a extinção da ocorrência das dermatites e irritações cutâneas, nas mãos e antebraços nas auxiliares do arsenal de materiais, bem como das enfermeiras e médicos, que manipulavam as embalagens dos produtos que eram esterilizados anteriormente pelo processo de Óxido de Etileno em função da eliminação de resíduo na embalagem.</p>
+                        <p>Outro ponto importantíssimo é que o processo de esterilização por paraformaldeído também comprovou a eliminação das ocorrências de choque pirogênico em pacientes que utilizam os cateteres da hemodinâmica reprocessados anteriormente pelo processo de Óxido de Etileno.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq17" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Plasma de Peróxido de Hidrogênio?</span></a>
+                        <p>A cada ciclo de esterilização das autoclaves que utilizam o método de Plasma de Peróxido de Hidrogênio tem-se um custo muito elevado de esterilização em função de sua baixa capacidade de litragem e os altos custos dos insumos que são específicos e importados.</p>
+                        <p>Embora sejam muito eficientes em tempo, em torno de 50 minutos para a esterilizadora de 50 litros, ou 90 minutos para a de 100 litros, as autoclaves possuem elevados custos de importação dos equipamentos e manutenção.</p>
+                        <p>As autoclaves de Plasma de Peróxido de Hidrogênio tem baixa capacidade de produção, a  maior autoclave de disponível no mercado tem sua capacidade limitada a 100 litros, enquanto as autoclaves da Form Steril® tem uma  capacidade de 1.000 litros, ou seja 10 vezes maior com um custo de aquisição, manutenção e operacionalização muito mais baixo.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq18" class="normaltip" ><span style="font-size:15px;">O processo de esterilização por paraformaldeído é aprovado pela ANVISA?</span></a>
+                        <p>A aprovação do processo de esterilização por formaldeído pela ANVISA (Ministério da Saúde) está contida e comprovada pela RESOLUÇÃO - RDC Nº 91, de 28 de novembro de 2008, que reproduzimos abaixo:</p>
+                        <p>Art. 1º Fica proibido o uso, de forma isolada, de produtos que contenham paraformaldeído ou formaldeído, para desinfecção e esterilização de artigos, superfícies e equipamentos, em ambientes domiciliares ou coletivos e em serviços submetidos ao controle e fiscalização sanitária.</p>
+                        <p>Art. 2° O uso de produtos que contenham paraformaldeído ou formaldeído somente será permitido quando associado a um equipamento de esterilização registrado na ANVISA e obedecendo às condições de uso exigidas pelo fabricante do equipamento, garantindo a segurança e eficácia do processo de esterilização.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq19" class="normaltip" ><span style="font-size:15px;">Qual é a experiência da Form Steril® no processo de esterilização por Paraformaldeído?</span></a>
+                        <p>A Form Steril® foi inaugurada em 19 de dezembro de 2003 e tem mais de 10 anos de experiência utilizando o processo de esterilização por paraformaldeído para o reprocessamento de materiais hospitalares para diversas instituições.</p>
+                        <p>A Form Steril® é uma empresa especializada em serviços e processos de controle de infecção hospitalar com objetivo de assegurar completa segurança biológica para a reutilização dos materiais médicos-cirúrgicos, atuando em áreas específicas para todas as fases do reprocessamento, com a mais avançada tecnologia em equipamentos, pessoal qualificado e processos cuidadosamente avaliados e validados.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq20" class="normaltip" ><span style="font-size:15px;">Quais são as normas ISO do processo de esterilização da Form Steril®?</span></a>
+                        <p>
+                            As normas ISO para o processo de esterilização da Form Steril® são:
+                            <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                                <li>O processo por água em forma de vapor saturado é regido pelas normas ISO 11.134;</li>
+                                <li>O processo por resina epóxica de oxido de etileno é pela norma ISO 11.135;</li>
+                                <li>A solução de formalina com álcool estabilizado, pela resolução 14.180 que se transformou na ISO 24.424/9;</li>
+                                <li>O processo de paraformaldeído granulado sólida ISO 24.424/9.</li>
+                            </ul>
+                        </p><br/>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq21" class="normaltip" ><span style="font-size:15px;">Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</span></a>
+                        <p>O processo por paraformaldeído é extremamente eficaz superando em muito os demais processos existentes no mercado, conforme comprava os estudos técnicos científicos da Faculdade Paulista de Medicina – USP.</p>
+                        <p>No paraformaldeído o fracionamento da molécula é tão reduzido que seu efeito destringente e de penetração capilar é potencializado exponencialmente, tornando o acido fórmico um agente esterilizante de alta penetrabilidade, fazendo com que o agente penetre em pequenos lumens, o por efeito destringente remova o filme bacteriano, inviabilizando os esporos de bactérias ali existentes.</p>
+                        <p>Este é o principio de funcionamento das autoclaves da Form Steril®, e a eficiência da técnica desenvolvida em seu reator químico para esta finalidade.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq22" class="normaltip" ><span style="font-size:15px;">Como é que funciona o processo de esterilização por paraformaldeído da Form Steril®?</span></a>
+                        <p>As maquinas esterilizadoras da Form Steril®, utilizam o paraformaldeído granulado solido com certificado químico de pureza, de fácil aquisição no mercado, podendo ser adquirido nos mais diversos revendedores de produtos químicos, existentes tais como: Cosmoquímica, Herzog, Brasmo entre outros.
+                        <table>
+                            <tr>
+                                <td>CH3OH</td><td>(HCOH )n</td><td>H COOH</td><td>CO2+H2O</td>
+                            </tr>
+                            <tr>
+                                <td>Metanol</td><td>Paraformaldeido</td><td>Acido Fórmico</td><td>dióxido de carbono + água</td>
+                            </tr>
+                        </table><br/>
+
+                        </p>
+                        <p>Na presença da água o gás do paraformaldeído se transforma em acido fórmico = HCO-OH, (agente químico esterilizante) sendo o íon hidroxila (-OH) altamente reativo, e interage com os componentes vitais dos micros organismos levando os a morte.</p>
+                        <p>Para melhores esclarecimentos, SUBLIMAÇÃO, é a passagem de uma substancia do estado sólido para vapor superaquecido (popular gasoso), quando seu estado energético atinge ponto crítico isentrópico, fazendo com que as forças de interação molecular se rompam, e fracionando o elemento em questão até que tenha o seu coeficiente de penetração capilar de uma molécula estável da própria substância.</p>
+                        <p>Este é o principio de funcionamento das autoclaves da Form Steril® e a eficiência da técnica desenvolvida em seu reator químico para esta finalidade.</p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq23" class="normaltip" ><span style="font-size:15px;">Como é validado o processo de esterilização da Form Steril®?</span></a>
+
+                        <p>Os processos realizados pelos equipamentos da Form Steril® são validados pelos integradores químicos ISO 11.140 e pelos biológicos ISO 11.138 com nível de seguridade estéril (SAL) 10 -6, existindo no Brasil vários representantes das mais variadas marcas, com integradores ISO 11.140 (HEVEN, Browne, SAED, entre outros).</p>
+                        <p>Os parâmetros de tolerância da norma ISO 11140 para integradores químicos Classe 1 FORMOL utilizados para formaldeído trazem as seguintes diretrizes.
+                        <table>
+                            <tr><td>Método Esterilização</td><td>Tempo Mínimo</td><td>Temperatura</td><td>Concentração mg/litro</td><td>Saturação do vapor</td></tr>
+                            <tr><td>Vapor saturado gás de formaldeido</td><td>0 -25%</td><td>0 -3ºC</td><td>0 -20%</td><td>titulo≥ 85</td></tr>
+                        </table><br/>
+                        </p>
+                        <p>Cada pacote deverá conter as tiras deste integrador, alem do capilar de teste de penetração em carga, ou Loadcheck, que deve estar posicionado em local estratégico, dentro da câmara do equipamento. Entende se como local estratégico o ponto central do carregamento da carga a ser esterilizada.</p>
+                        <p>O indicador biológico subitillis deverá ser colocado da mesma forma para a confirmação da penetração do agente esterilizante.</p>
+                        <p>Alguns fabricantes de equipamentos recomendam o uso dos integradores em função do volume da carga e da câmara da maquina, mas como este processo tem seus parâmetros definidos em função da concentração do agente esterilizante, e mesmo trata-se de um gás a acredita ser de bom senso proceder com o máximo rigor, rasteando cada pacote com um integrador químico, quando os artigos esterilizados forem orteses ou próteses.</p>
+                        <p>Estes procedimentos poderão ser também substituídos pelo pacote de sacrifício. Mas, antes de definir o que vem a ser o pacote de sacrifício, precisamos definir os conceitos de cargas de profundidade e cargas de superfície.</p>
+                        <p>Cargas de superfície, ou alta densidade são materiais onde não é exigida a penetração em profusão do agente esterilizante, ou seja, materiais de superfície impermeáveis tais como, cúpulas bandejas bacias, respiradouros e instrumentais cirúrgicos.</p>
+                        <p>Cargas de profundidade, ou baixa densidade são materiais, porosos de difícil penetração e profusão do agente esterilizante, tais como, roupas tecidos, gaze, algodão, cânulas e instrumentais que possuam entranhas e labirintos de difícil acesso.</p>
+                        <p>O pacote de sacrifício consiste de uma bolsa de um material espongiforme, possuindo peso, porosidade e espessura constante em toda a sua superfície de exposição ao agente esterilizante, onde no seu interior são alojados, o teste de penetração capilar (Loadcheck), com integrador ISO 11140 Classe 1 FORMOL e o biológico subitillis.</p>
+                        <p>Esta bolsa após ser carregada é envolvida numa embalagem grau cirúrgica, e colocada no centro geométrico do carregamento. O sensor de temperatura de profundidade é introduzido na esponja até o centro da bolsa. Após o termino do processo a carga de sacrifício é aberta e verificada todos os parâmetros, que indica em tempo real o resultado do mesmo, sem a surpresa de ter que reprocessar o material, quando da abertura do pacote “estéril” no centro cirúrgico.</p>
+
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq24" class="normaltip" ><span style="font-size:15px;">Quais os princípios que fundamentam a terceirização do processo de esterilização?</span></a>
+                        <p>
+                            O princípio da terceirização baseia-se na idéia de que as empresas devem concentrar seus recursos humanos para atender a atividade-fim da sua esfera produtiva e delegar para um terceiro a realização de tarefas secundárias. Desta forma, acredita-se que há vantagem em terceirizar as atividades ou produtos que se caracterizam como "meios", favorecendo o foco na atividade principal sem desvios da energia de trabalho. Pretende-se também que a empresa que passa a ser considerada como "terceira" em uma relação comercial deva possuir características de alta especialização para executar a atividade meio com o desenvolvimento de estratégias especializadas e possuindo recursos humanos treinados para a realização das atividades.
+                        </p>
+                        <!-- fim pergunta -->
+                        <!-- pergunta -->
+                        <a name="faq25" class="normaltip" ><span style="font-size:15px;">Como posso contratar os serviços da Form Steril®?</span></a>
+                        <p>Entre em contato com a Form Steril® através do email contato@formsteril.com.br, ou pelo telefone +55 19 3042-0377 que teremos o maior prazer em convidá-lo para conhecer os nossos processos, equipamentos, instalações e referências de serviços prestados visando virar o seu principal parceiro em prestação de serviços para esterilização de materiais hospitalares.</p>
+                        <p>Segue abaixo os nossos dados para contato:<br/>
+                            <b>Form Steril®</b><br/>
+                             Rua Maringá 202, Jardim São Francisco<br/>
+                             Piracicaba - São Paulo<br/>
+                             Cep:13423-514<br/>
+                            Telefone: +55 19 3042-0377<br/>
+                            <a href="mailto:contato@formsteril.com.br"> E-mail: contato@formsteril.com.br</a><br/>
+                        </p>
+                        <!-- fim pergunta -->
+
                     </div>
                 </div>
             </div>

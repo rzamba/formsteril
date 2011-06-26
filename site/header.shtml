@@ -2,9 +2,10 @@
     	<!-- .logo -->
       <div class="logo">
       	<a href="/"><img src="../images/logo-form.png" alt=""></a>
-     
+        <div style="float: right;margin-top: 46px;margin-left: 10px;">
+          <span style="font-size:18px;color:#8B4513;"><i>A tecnologia de esterilização do século XXI</i></span>
+        </div>
       </div>
-
     	<!-- /.logo -->
       <form action="http://www.google.com/search" id="login-form">
           <div class="rowElem1">
@@ -18,7 +19,7 @@
         <ul class="sf-menu">
           <li><a id="home" <!--#if expr="$onde=home" -->class="current"<!--#endif --> href="/" >home</a></li>
           <li><a id="quemsomos"  <!--#if expr="$onde=quemsomos" -->class="current"<!--#endif --> href="/quemsomos">quem somos</a></li>
-          <li><a id="servicos" <!--#if expr="$onde=servicos" -->class="current"<!--#endif --> href="/servicos">serviços</a></li>
+          <li><a id="servicos" <!--#if expr="$onde=servicos" -->class="current"<!--#endif --> href="/solucoes">soluções</a></li>
           <li><a id="tecnologia" <!--#if expr="$onde=tecnologia" -->class="current"<!--#endif --> href="/tecnologia">tecnologia</a></li>
           <li><a id="processos" <!--#if expr="$onde=processos" -->class="current"<!--#endif --> href="/processos">processos</a></li>
           <li><a id="contato" <!--#if expr="$onde=contato" -->class="current"<!--#endif --> href="/contato">contato</a></li>

@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home page</title>
+  <title>Form Steril - Tecnologia de esterilização do século XXI</title>
   <meta charset="utf-8">
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your keywords">
-  <meta name="author" content="Your name">
+  <meta name="description" content="Tecnologia de esterilização do século XXI hospitalar">
+  <meta name="keywords" content="esterilização,equipamento hospitalar,autoclaves, serviços,paraformaldeído">
+  <meta name="author" content="Pedro Azambuja">
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/grid.css" type="text/css" media="all">
   <link rel="stylesheet" href="css/style.css" type="text/css" media="all">
@@ -28,7 +28,7 @@
 </script>
   <!--[if lt IE 9]><script type="text/javascript" src="js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
-  
+  <!--#include virtual="analytics.shtml" -->
 </head>
 
 <body>
@@ -49,11 +49,13 @@
                         <img alt="" src="images/big_pic1.jpg" />                       
                         <div class="info-text">
                             <div class="indent-info">
-                                <h2>Qualidade</h2>
+                                <h2>Soluções em Esterilização</h2>
                                 <div class="tail">
-                                    Comparitivo entre processos de esterilização, disponívies no mercado.
+                                    Soluções customizadas para esterilização de acordo
+                                    com as mais rigorosas normas técnicas e ambientais:<br/>
+                                    <br/><i>Venda, Locação e Outsourcing</i>
                                 </div>
-                                <div class="wrapper"><a href="/comparativo">Leia mais</a></div>
+                                <div class="wrapper"><a href="/solucoes">Leia mais</a></div>
                             </div>
                         </div>                         
                    </div>
@@ -61,12 +63,15 @@
                     <img alt="" src="images/big_pic3.jpg" />
                       <div class="info-text">
                             <div class="indent-info">
-                                <h2>Processos</h2>
+                                <h2>Seguridade Estéril</h2>
                                 <div class="tail">
-                                Conheça as etapas do nosso processo, <br/>
-                                do recebimento do material a entrega.
+                                Nossos autoclaves possuem<br/> seguridade estéril
+                                comprovada<br/> e reduzem em até 40%
+                                os custos <br/>com esterilização.
+                                <br/>
+                                <br/>
                                 </div>
-                                <div class="wrapper"><a href="/processos">Leia mais</a></div>
+                                <div class="wrapper"><a href="/seguridade">Leia mais</a></div>
                             </div>
                         </div>
                    </div>
@@ -74,12 +79,14 @@
                     <img alt="" src="images/home03.jpg" width="601" height="382" />
                       <div class="info-text">
                             <div class="indent-info">
-                                <h2>Tecnologia</h2>
+                                <h2>Tecnologia em Autoclaves</h2>
                                 <div class="tail">
-                                    Usamos tecnologia de ponta. <br/>
-                                    O método de esterilização é o nosso diferencial.
+                                Comprove as vantagens da esterilização<br/> por
+                                Vapor a Baixa Temperatura<br/> e Paraformaldeído
+                                (VBTP)® <br/>em relação aos processos existentes.
+                                <br/>
                                 </div>
-                                <div class="wrapper"><a href="/tecnologia">Leia mais</a></div>
+                                <div class="wrapper"><a href="/comparativo">Leia mais</a></div>
                             </div>
                         </div>
                    </div>
@@ -96,7 +103,7 @@
       <!-- .content-box -->
         <div class="content-box">
             <div class="container_16 wrapper">
-                <div class="grid_6">
+                <!--<div class="grid_6">
                    	<div class="box">
                     	<div class="indent-box">
                         	<h1>Welcome!</h1>
@@ -109,38 +116,40 @@
                             <a href="/quemsomos" class="button">Read More</a>
                         </div>
                     </div>
-                </div>
-                <div class="grid_6">
-                    <div class="indent-col">
-                       <h3>News &amp; Events</h3>
-                    	<p class="img-wrapper"><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 1"><img src="images/1page_img1.jpg" alt=""></a></p>
-                        <span class="txt1">20.Jan.2011 Mertyad Keias</span>
-                        <p>eliasraent vestibul uoleadi piscingaes
-                        lacusenean ummy hendrerit mauriseras
-                        scvarius elportasce sude.</p>
-                        <a href="/quemsomos" class="button">More News</a>
-                    </div>
-                </div>
-                <div class="grid_4">
+                </div>-->
+                <div class="grid_9">
                     <div class="box1">
                     	<div class="indent-box">
-                        	<h3>Categories</h3>
+                        	<h3>Tire suas dúvidas</h3>
                             <ul class="list1">
-                                <li><a href="#">Cardiology</a></li>
-                                <li><a href="#">Chronic Disease</a></li>
-                                <li><a href="#">Dentistry</a></li>
-                                <li><a href="#">Developmental</a></li>
-                                <li><a href="#">Emergency Medicine</a></li>
-                                <li><a href="#">Endocrinology</a></li>
-                                <li><a href="#">Gastroenterology</a></li>
-                                <li><a href="#">General Pediatrics</a></li>
-                                <li><a href="#">Hematology</a></li>
-                                <li><a href="#">Oncology</a></li>
-                                <li><a href="#">Infectious Diseases</a></li>
+                                <li><a href="/comparativo">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</a></li>
+                                <li><a href="/faq/#faq9">Qual é o tempo do ciclo completo de esterilização pelo processo da Form Steril®?</a></li>
+                                <li><a href="/faq/#faq10">O processo de esterilização por Paraformaldeído é mais econômico?</a></li>
+                                <li><a href="/faq/#faq11">Quais são os insumos e a segurança no processo por Paraformaldeído?</a></li>
+                                <li><a href="/faq/#faq18">O processo de esterilização por Paraformaldeído é aprovado pela ANVISA?</a></li>
+                                <li><a href="/faq/#faq15">Existe toxidade no processo por Paraformaldeído?</a></li>
+                                <li><a href="/faq/#faq13">Quais são os riscos de esterilização com o processo de Óxido de Etileno?</a></li>
+                                <li><a href="/faq/#faq17">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</a></li>
+                                
                             </ul>
+                            <div style="padding-top:10px;">
+                            <a href="/faq" class="button">Veja o FAQ completo</a>
+                            </div>
                         </div>
                     </div>
                 </div>
+                <div class="grid_7">
+                    <div class="indent-col">
+                       <h3>Informe Técnico</h3>
+                    	<p class="img-wrapper"><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 1"><img src="images/1page_img1.jpg" alt=""></a></p>
+                        <p>O Núcleo de Controle de Infecção Hospitalar da Secretaria Municipal de Saúde da Prefeitura
+                           de São Paulo comprova a eficiência do processo de esterilização por formaldeído
+                           e paraformaldeído, que permite uma penetração melhor nas extremidades dos lumens dos endoscópios,
+                           cateteres e outros artigos garantindo que podem ser reutilizados.</p>
+                        <a href="/quemsomos" class="button">Leia Mais</a>
+                    </div>
+                </div>
+
             </div>
             <div class="indent">
             	<div class="container_16 wrapper">
@@ -148,10 +157,13 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 2"><img src="images/1page_img2.jpg" alt=""></a></figure><br>
-                                    <h4>New Technologies
-                                    elitauris fermyas ctulaore
-                                    vasaliam lemiolor.</h4>
+                                	<figure><img src="images/meioamb.jpg" width="160" height="131" alt=""></figure>
+                                    <h3 style="font-size: 25px;">A Natureza Agradece</h3>
+                                    <h4 style="font-size: 16px;">A Processo de Esterilização por
+
+Vapor a Baixa Temperatura
+e Paraformaldeído (VBTP)®
+sem riscos para o nosso meio ambiente.</h4>
                                     <br class="clear" />
                                 </div>
                             </div>
@@ -161,10 +173,13 @@
                         <div class="box1">
                             <div class="indent-box1">
                                 <div class="wrapper">
-                                	<figure><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 3"><img src="images/1page_img3.jpg" alt=""></a></figure><br>
-                                    <h4>Online Consultation
-                                    neanauctor wisi et urnase
-                                    vasum erat volutpat. </h4>
+                                	<figure><img src="images/1page_img3.jpg" alt=""></figure>
+ <h3 style="font-size: 25px;color: ">Saúde Ocupacional</h3>
+<h4 style="font-size: 16px;">
+O processo da Form Steril® elimina
+as  dermatites e irritações cutâneas dos
+profissionais  que manipulam embalagens
+com resíduos de Óxido de Etileno. </h4>
                                     <br class="clear" />
                                 </div>
                             </div>

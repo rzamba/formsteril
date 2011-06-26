@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home page</title>
+  <title>Form Steril - contato</title>
   <meta charset="utf-8">
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your keywords">
+  <meta name="description" content="Fale conosco enviando um email ou veja nosso endereço">
+  <meta name="keywords" content="endereço,email,contato">
   <meta name="author" content="Your name">
   <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
@@ -22,6 +22,7 @@
   <!--[if lt IE 9]>
     <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
 </head>
 
 <body>
@@ -49,7 +50,7 @@
                               </div>
                               
                               <div class="field">
-                                <input name="email" id="email" type="text"  class="text-input" onBlur="if(this.value=='') this.value='Informe seu E-mail:'" onFocus="if(this.value =='Informe seu E-mail:' ) this.value=''" value="Informe seu E-mail:" />
+                                <input name="email" id="email" type="text"  class="text-input" onBlur="if(this.value=='') this.value='Informe seu Email:'" onFocus="if(this.value =='Informe seu Email:' ) this.value=''" value="Informe seu Email:" />
                                 <label class="error" style="display:none;" for="email" id="email_error">*Campo de preenchimento obrigatório.</label>
                                 <label class="error" style="display:none;" for="email" id="email_error2">*Esse não é um endereço de email válido.</label>
                               </div>
@@ -81,10 +82,10 @@
                         <iframe width="341" height="213" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Maringa+202,+Jardim+S%C3%A3o+Franscisco+S%C3%A3o+Paulo&amp;aq=&amp;sll=-22.771552,-47.592881&amp;sspn=0.010506,0.020814&amp;ie=UTF8&amp;hq=&amp;hnear=R.+Maring%C3%A1,+202+-+Jardim+S%C3%A3o+Francisco,+Piracicaba+-+S%C3%A3o+Paulo,+13423-514&amp;t=h&amp;ll=-22.771591,-47.592859&amp;spn=0.016857,0.029182&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com.br/maps?f=q&amp;source=embed&amp;hl=pt-BR&amp;geocode=&amp;q=Rua+Maringa+202,+Jardim+S%C3%A3o+Franscisco+S%C3%A3o+Paulo&amp;aq=&amp;sll=-22.771552,-47.592881&amp;sspn=0.010506,0.020814&amp;ie=UTF8&amp;hq=&amp;hnear=R.+Maring%C3%A1,+202+-+Jardim+S%C3%A3o+Francisco,+Piracicaba+-+S%C3%A3o+Paulo,+13423-514&amp;t=h&amp;ll=-22.771591,-47.592859&amp;spn=0.016857,0.029182&amp;z=14&amp;iwloc=A" style="text-align:left">Exibir mapa ampliado</a></small>
                     	<br>
                         <p>Form Steril<br>
-                        <b>Rua Maringa 202, Jardim São Franscisco</b> <br>Piracicaba - São Paulo <br>Cep:13423-514</p>
+                        <b>Rua Maringá 202, Jardim São Francisco</b> <br>Piracicaba - São Paulo <br>Cep:13423-514</p>
                         <p class="block-contact">
                         <span>+55 19 3042-0377</span>Telefone:<br>
-                        E-mail: <a href="mailto:contato@formsteril.com.br" class="link1">contato@formsteril.com.br</a></p>
+                        Email: <a href="mailto:contato@formsteril.com.br" class="link1">contato@formsteril.com.br</a></p>
                     </div>
                 </div>
             </div>

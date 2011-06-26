@@ -5,12 +5,14 @@
                 <div class="grid_3">
                 <ul>
                   <li><a href="/quemsomos">Quem somos</a></li>
-                  <li><a href="/servicos">Serviços</a></li>
+                  <li><a href="/solucoes">Soluções</a></li>
+                  <li><a href="/seguridade">Seguridade</a></li>
                 </ul>
               </div>
               <div class="grid_3">
                 <ul>
                   <li><a href="/tecnologia">Tecnologia</a></li>
+                  <li><a href="/comparativo">Comparativo</a></li>
                   <li><a href="/processos">Processos</a></li>
                 </ul>
               </div>

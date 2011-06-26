@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Form Steril - Soluções</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Soluções e Serviços de esterilização Hospitalar">
+  <meta name="keywords" content="esterilização,materiais,servicos,treinamento,venda,locação,demonstração,acompanhamento,tecnologia">
+  <meta name="author" content="Your name">
+  <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
+
+  <!-- styles for prettyPhoto -->
+  <link rel="stylesheet" href="../css/prettyPhoto.css" type="text/css" media="all">
+
+  <script type="text/javascript" src="../js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="../js/script.js"></script>
+
+  <script type="text/javascript" src="../js/cufon-yui.js"></script>
+  <script type="text/javascript" src="../js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="../js/cufon-replace.js"></script>
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
+  <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
+</head>
+
+<body>
+  <div class="main">
+  	<!-- header -->
+   <!-- header -->
+   <!--#set var="onde" value="servicos" -->
+    <!--#include virtual="../header.shtml" -->
+
+    <!-- content -->
+    <section id="content">
+      <!-- .content-box -->
+        <div class="content-box">
+            <div class="container_16">
+                <div class="wrapper">
+                    <div class="grid_8">
+                    <!-- insert content here -->
+                        <h2 id="full_width">Serviços de Esterilização de Materiais </h2>
+                        <p>Esterilização a alta temperatura dos produtos resistentes ao calor (pacotes de campos e aventais cirúrgicos, caixas de instrumentos cirúrgicos, gazes, chumaços, ataduras, etc.</p>
+                        <p>Esterilização a baixa temperatura dos materiais termo-sensíveis com a utilização do processo por paraformaldeído.</p>
+                        <p>Processo aplicável a todos os materiais esterilizados a óxido de etileno, com a vantagem de ser o processo mais indicado para esterilização de cateteres, devido seu alto poder de penetração em pequenos lumens*.</p>
+                        <p>Permite a entrega mais rápida dos materiais em função da não necessidade de aeração posterior.</p>
+                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                            <li style="padding-bottom: 5px;">Coleta e entrega dos produtos através de frota própria, agilizando o processo;</li>
+                            <li style="padding-bottom: 5px;">Limpeza dos materiais com uso de água tratada, detergentes enzimáticos e lavadoras ultra-sônica;</li>
+                            <li style="padding-bottom: 5px;">Avaliação criteriosa da integridade e funcionalidade dos materiais;</li>
+                            <li style="padding-bottom: 5px;">Devolução dos produtos não passíveis de esterilização acompanhados das devidas justificativas;</li>
+                            <li style="padding-bottom: 5px;">Preparo dos produtos de forma que permite a manutenção de suas características e penetração dos elementos de esterilização. Empacotamento com uso de embalagens SMS ou PAPEL GRAU CIRÚRGICO.</li>
+                        </ul><br/>
+                        <p>* Segundo estudo de Rubner, 1906/ Van Loew 1988.</p><br/>
+                        <h2 id="full_width">Treinamento para Clientes</h2>
+                        <p>Para que os equipamentos e serviços vendidos pela Form Steril® possam atingir sua melhor performance, disponibilizamos aos nossos clientes um treinamento técnico acompanhado de um manual detalhado de procedimentos técnicos e funcionais de esterilização de materiais.</p>
+                        <p>  Uma equipe especialmente preparada ministra, de acordo com as necessidades de cada cliente, o treinamento do pessoal responsável pela operação dos equipamentos garantindo o melhor desempenho possível do processo de esterilização.</p>
+                    </div>
+                    <div class="grid_8">
+                    <!-- insert content here -->
+                        <h2 id="full_width">Venda ou Locação de Autoclaves</h2>
+                        <p>Trabalhamos com venda e locação de autoclaves para Hospitais e Clínicas e
+                        possuímos uma equipe especializada de alto nível que a partir do entendimento de sua necessidade fabricamos as autoclaves para venda ou locação de acordo com os mais rigorosos procedimentos de qualidade e tecnologia.</p>
+                        <p>Colocamos nossa experiência a seu dispor para gerar uma solução rápida e adequada em termos funcionais e econômicos, pois possuímos a patente e o know how comprovado da tecnologia que é totalmente baseada em componentes nacionais.</p>
+                        <p>Consulte-nos, enviando sua duvidas e/ou Solicitações de Orçamentos para o endereço <a href="mailto:comercial@formsteril.com.br"> comercial@formsteril.com.br</a></p>
+                        <h2 id="full_width">Assistência Técnica</h2>
+                        <p>Disponibilizamos aos nossos clientes um contrato de gestão e planejamento de manutenção em equipamentos e instalações.</p>
+                        <p>A Form Steril®  se diferencia pela forma com que atua na área de Assistência Técnica, contando com:</p>
+                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                            <li style="padding-bottom: 5px;">Profissionais altamente capacitados;</li>
+                            <li style="padding-bottom: 5px;">Atendimento ágil e personalizado para o cliente;</li>
+                            <li style="padding-bottom: 5px;">Acordo de Serviços (SLA – Service Agreement Service);</li>
+                            <li style="padding-bottom: 5px;">Peças e componentes nacionais;</li>
+                            <li style="padding-bottom: 5px;">Parceria com as melhores empresas fabricantes de componentes;</li>
+                            <li style="padding-bottom: 5px;">Software de gerenciamento para controle de garantia das peças e serviços executados.</li>
+                        </ul>
+                        <h2 id="full_width">Demonstração e Acompanhamento Técnico</h2>
+                        <p>A Form Steril® disponibiliza o serviço de entrega técnica, com acompanhamento de montagem e instruções de uso de equipamentos de tecnologia e dispõe de uma equipe de Promotores Técnicos, aptos a realizar treinamentos, demonstrações e desenvolvimento junto ao usuário e funcionário da manutenção.</p>
+                    </div>
+                 </div>
+            </div>
+        </div>
+      <!-- /.content-box -->
+    </section>
+  </div>
+  <!-- aside -->
+  <!--#include virtual="../rodape.shtml" -->
+</body>
+</html>

@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home page</title>
+  <title>Form Steril - comparativo entre processos de esterilização</title>
   <meta charset="utf-8">
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your keywords">
+  <meta name="description" content="comparativo entre processos de esterilização">
+  <meta name="keywords" content="esterilização,processos,vantagens,comparativo">
   <meta name="author" content="Your name">
   <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
@@ -22,6 +22,7 @@
   <!--[if lt IE 9]>
     <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
 </head>
 
 <body>
@@ -41,7 +42,7 @@
                         <h2 id="full_width">Comparativo entre os processos de esterilização</h2>
                         <table>
                             <thead>
-                            <th style="width:25%;vertical-align:middle;">Baixa Temperatura por Sublimação de Paraformaldeído Sólido <br/>(BTSPS - processo Pres Switch &reg;)</th>
+                            <th style="width:25%;vertical-align:middle;">Vapor a Baixa Temperatura e Paraformaldeído (VBTP)<br/>Processo da Form Steril&reg;</th>
                             <th style="width:25%;vertical-align:middle;">Vapor a Baixa Temperatura e Formaldeído (VBTF)</th>
                             <th style="width:25%;vertical-align:middle;">Plasma de Peróxido de Hidrogênio</th>
                             <th style="width:25%;vertical-align:middle;">Gás de Óxido de Etileno</th>

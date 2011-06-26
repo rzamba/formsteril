@@ -166,6 +166,8 @@ footer {
 .indent-col1{padding:25px 0px 20px 0px}
 .indent-col2{padding:25px 0px 0px 60px}
 
+.grid_7 .indent-col{padding:25px 35px 0px 10px}
+
 .block-contact span{ float:right; padding-right:170px }
 .img-indent{ margin-bottom:15px}
 
@@ -1171,10 +1173,10 @@ header .twitter-link {
 #loopedSlider .slides .div { position:absolute; top:0; width:940px; }
 #loopedSlider .slides .div img { float:right; right:0; position:absolute}
 
-#loopedSlider .info-text{ width:340px; height:391px; line-height:1.42em; font-size:14px;}
-#loopedSlider .indent-info{padding:55px 23px 25px 45px;}
-#loopedSlider .info-text h2{ color:#fff; font-size:48px; border-bottom:1px solid #CCCCCC; margin-bottom:21px; padding-bottom:21px}
-#loopedSlider .info-text .tail{ border-bottom:1px solid #CCCCCC; margin-bottom:21px; padding-bottom:95px;}
+#loopedSlider .info-text{ width:340px; height:391px; line-height:1.42em; font-size:15px;}
+#loopedSlider .indent-info{padding:35px 23px 25px 45px;}
+#loopedSlider .info-text h2{ color:#fff; font-size:42px; border-bottom:1px solid #CCCCCC; margin-bottom:21px; padding-bottom:21px}
+#loopedSlider .info-text .tail{ border-bottom:1px solid #CCCCCC; margin-bottom:15px; padding-bottom:30px;}
 #loopedSlider .info-text a{ color:#fff; font-size:24px; background:url(../images/marker5.png) top left no-repeat; padding-left:30px; text-decoration:none; float:right}
 #loopedSlider .info-text a:hover{ color:#fff; text-decoration:none}
 
@@ -2392,3 +2394,14 @@ a:hover .sf-sub-indicator, a.current .sf-sub-indicator {
 			#advanced ul ul ul li a {
 				color:#939393;
 			}
+
+
+#extra-ul1 ul {
+    list-style-type:square;
+    color:#00c9d6;
+    list-style-position:inside;
+}
+
+#extra-ul1 li {
+    padding-bottom: 5px;
+}

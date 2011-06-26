@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Form Steril - Seguridade</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Seguridade">
+  <meta name="keywords" content="autoclave,esterilizante,integradores,químicos,biológicos,vapor,manuseio,armazenagem">
+  <meta name="author" content="Pedro Azambuja">
+  <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
+
+  <!-- styles for prettyPhoto -->
+  <link rel="stylesheet" href="../css/prettyPhoto.css" type="text/css" media="all">
+
+  <script type="text/javascript" src="../js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="../js/script.js"></script>
+
+  <script type="text/javascript" src="../js/cufon-yui.js"></script>
+  <script type="text/javascript" src="../js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="../js/cufon-replace.js"></script>
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
+  <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
+</head>
+
+<body>
+  <div class="main">
+  	<!-- header -->
+   <!-- header -->
+   <!--#set var="onde" value="home" -->
+    <!--#include virtual="../header.shtml" -->
+
+    <!-- content -->
+    <section id="content">
+      <!-- .content-box -->
+        <div class="content-box">
+            <div class="container_16">
+                <div class="wrapper">
+                    <div class="grid_16">
+                        <h1 id="full_width">Seguridade Estéril</h1>
+                        <h3 id="full_width">Nossos autoclaves possuem seguridade estéril comprovada e reduzem em até 40% os custos com esterilização.</h3>
+                        <h4>O processo de esterilização por  Paraformaldeído  é muito mais  econômico do que os demais processos existentes e mantém a qualidade de seguridade estéril uniforme em todos os lotes de produtos esterilizados.</h4>
+                        <br/><span class="txt1" style="font-size: 20px;" >Loadcheck</span><br/><br/>
+                            <p>Para comprovação da Seguridade Estéril do processo por Paraformaldeído a Form Steril® desenvolveu um dispositivo denominado Loadcheck para o teste de penetração em carga para serem utilizados em cargas de profundidade, orteses e próteses.</p>
+                            <p>Este dispositivo consiste numa câmera tubular vedada em uma das suas extremidades por onde são introduzidos os integradores químicos e biológicos. Na extremidade oposta possui uma única entrada composta por uma cânula (tubo espiralado) de 2,5 metros de comprimento com um lume de 2 mm de diâmetro.</p>
+                            <p>O teste de comprovação de seguridade estéril se realiza após a retirada da carga esterilizada da autoclave e abertura do dispositivo onde estão contidos os integradores para comprovar se houve ou não a penetração do agente esterilizante, especialmente em artigos canulados.</p>
+                        <span class="txt1" style="font-size: 20px;" >Insumos</span><br/><br/>
+                            <p>Os insumos necessários para a operacionalização das autoclaves da Form Steril®, como: materiais de controle de processo como integradores químicos, biológicos, embalagem, e paraformaldeído são de uso corrente no mercado nacional e podem ser adquiridos diretamente com os mais variados fornecedores, tais como: BRASMO, COSMOQUIMICA, HERZOG, SAED, BROWNE, HAVEN, TOSI, AMCOR, BIOTECNICA, entre outros. Por ter os mais variados fornecedores de boa qualidade e pronta entrega, estes insumos possuem custos bastante reduzidos, resultando num reprocessamento de alta confiabilidade, rapidez, e baixo custo.</p>
+                            <p>Por sua vez os insumos utilizados pelas autoclaves da concorrência, em sua grande maioria, estão sujeitos ao fornecimento exclusivo pelos fabricantes das autoclaves, resultando em custos operacionais muito mais elevados.</p>
+                        <span class="txt1" style="font-size: 20px;" >Manuseio e Armazenagem</span><br/><br/>
+                            <p>Os insumos do processo por paraformaldeído não requerem nenhum cuidado especial quanto ao manuseio e armazenagem, apenas proteção de luvas, e armazenagem em ambientes secos e hermeticamente fechados, como caixas plásticas ou similares. A dosagem é feita em uma balança comum com grandeza escalar em gramas, e a pesagem é realizada de acordo com a capacidade da autoclave.</p>
+                            <p>Por sua vez o processo concorrente por formaldeído tem o seu insumo fornecido em embalagem comercial com dosagem especifica para a utilização nas autoclaves importadas, e devem ser manuseadas e armazenadas em ambientes controlados e confinados contra riscos de acidentes e vazamentos.</p>
+                        <span class="txt1" style="font-size: 20px;" >Manutenção das Autoclaves</span><br/><br/>
+                            <p>Outro ponto importante é que as autoclaves concorrentes que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) ou Peróxido de Hidrogênio são importadas, com a exceção de uma empresa que importa as peças e realiza a montagem de suas autoclaves no Brasil. Estas autoclaves para materiais termo-sensíveis possuem custos elevados de aquisição e manutenção, e muitas vezes possuem problemas de parada operacional por falta de peças de reposição que são importadas.</p>
+                        <span class="txt1" style="font-size: 20px;" >Ciclo de Esterilização</span><br/><br/>
+                        <p>As autoclaves desenvolvidas pela Form Steril® possuem a vantagem de trabalham de forma combinada e podem esterilizar materiais termo-resistentes pelo método a vapor ou materiais termo-sensíveis pelo método do paraformaldeído.</p>
+                        <p>As autoclaves da Form Steril® quando operadas na modalidade do método a vapor esterilizam os materiais termo-resistentes no tempo máximo de 15 a 20 minutos contra o tempo de 100 a 120 minutos das autoclaves concorrentes nacionais.</p>
+                        <p>Para a esterilização dos materiais termo-sensíveis as autoclaves da Form Steril® são programadas facilmente para trabalharem no processo de paraformaldeído e com capacidade para até 1.000 litros. O tempo máximo de esterilização é de 180 minutos, podendo este tempo ser reduzido para 120 minutos se o ciclo de esterilização da autoclave for programado para 60 graus Celsius.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+      <!-- /.content-box -->
+    </section>
+  </div>
+  <!-- aside -->
+  <!--#include virtual="../rodape.shtml" -->
+</body>
+</html>

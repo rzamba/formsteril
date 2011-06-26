@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Home page</title>
+  <title>Form Steril - Processos</title>
   <meta charset="utf-8">
-  <meta name="description" content="Your description">
-  <meta name="keywords" content="Your keywords">
-  <meta name="author" content="Your name">
+  <meta name="description" content="Etapas e processos">
+  <meta name="keywords" content="Recebimento, materiais,transporte,limpeza,desinfecção,automatizada,embalagem,rastreabilidade,esterilização,qualidade,Logística">
+  <meta name="author" content="Pedro Azambuja">
   <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
@@ -22,6 +22,7 @@
   <!--[if lt IE 9]>
     <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
   <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
 </head>
 
 <body>
