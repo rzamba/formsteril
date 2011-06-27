@@ -1,10 +1,7 @@
 <header>
     	<!-- .logo -->
       <div class="logo">
-      	<a href="/"><img src="../images/logo-form.png" alt=""></a>
-        <div style="float: right;margin-top: 46px;margin-left: 10px;">
-          <span style="font-size:18px;color:#8B4513;"><i>A tecnologia de esterilização do século XXI</i></span>
-        </div>
+      	<a href="/"><img style="padding-left: 15px;" src="../images/formsteril.png" alt=""></a>
       </div>
     	<!-- /.logo -->
       <form action="http://www.google.com/search" id="login-form">
