@@ -1,9 +1,9 @@
 <header>
     	<!-- .logo -->
       <div class="logo">
-      	<a href="/"><img style="padding-left: 15px;" src="../images/formsteril.png" alt=""></a>
+      	<a href="/"><img style="padding-left: 15px;" src="../images/formsteril2.png" alt=""></a>
       </div>
-    	<!-- /.logo -->
+      <!-- /.logo -->
       <form action="http://www.google.com/search" id="login-form">
           <div class="rowElem1">
               <INPUT TYPE=hidden name=hl value="pt-br">

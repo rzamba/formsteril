@@ -55,7 +55,7 @@
                                     com as mais rigorosas normas técnicas e ambientais:<br/>
                                     <br/><i>Venda, Locação e Outsourcing</i>
                                 </div>
-                                <div class="wrapper"><a href="/solucoes">Leia mais</a></div>
+                                <div class="wrapper"><a href="/solucoes-esterilizacao">Leia mais</a></div>
                             </div>
                         </div>                         
                    </div>
@@ -117,32 +117,34 @@
                         </div>
                     </div>
                 </div>-->
-                <div class="grid_9">
+                <div class="grid_11">
                     <div class="box1">
                     	<div class="indent-box">
                         	<h3>Tire suas dúvidas</h3>
                             <ul class="list1">
                                 <li><a href="/comparativo">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</a></li>
+                                <li><a href="/faq/#faq7">Em que o processo por Paraformaldeído (VBTP) difere do processo por Formaldeído (VBTF)?</a></li>
                                 <li><a href="/faq/#faq9">Qual é o tempo do ciclo completo de esterilização pelo processo da Form Steril®?</a></li>
                                 <li><a href="/faq/#faq10">O processo de esterilização por Paraformaldeído é mais econômico?</a></li>
                                 <li><a href="/faq/#faq11">Quais são os insumos e a segurança no processo por Paraformaldeído?</a></li>
                                 <li><a href="/faq/#faq18">O processo de esterilização por Paraformaldeído é aprovado pela ANVISA?</a></li>
                                 <li><a href="/faq/#faq15">Existe toxidade no processo por Paraformaldeído?</a></li>
                                 <li><a href="/faq/#faq13">Quais são os riscos de esterilização com o processo de Óxido de Etileno?</a></li>
-                                <li><a href="/faq/#faq17">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</a></li>
-                                
+                                <li><a href="/faq/#faq16">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Óxido de Etileno ?</a></li>
+                                <li><a href="/faq/#faq17">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Peróxido de Hidrogênio?</a></li>
+                                <li><a href="/faq/#faq21">Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</a></li>
                             </ul>
-                            <div style="padding-top:10px;">
+                            <div style="padding-top:25px;">
                             <a href="/faq" class="button">Veja o FAQ completo</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="grid_7">
-                    <div class="indent-col">
+                <div class="grid_5">
+                    <div class="indent-col" style="padding-left:10px;">
                        <h3>Informe Técnico</h3>
-                    	<p class="img-wrapper"><a href="images/image_blank.png" class="lightbox-image" rel="prettyphoto" title="Example 1"><img src="images/1page_img1.jpg" alt=""></a></p>
-                        <p>O Núcleo de Controle de Infecção Hospitalar da Secretaria Municipal de Saúde da Prefeitura
+                    	<p class="img-wrapper"><img src="images/1page_img1.jpg" alt=""></p>
+                        <p><br/>O Núcleo de Controle de Infecção Hospitalar da Secretaria Municipal de Saúde da Prefeitura
                            de São Paulo comprova a eficiência do processo de esterilização por formaldeído
                            e paraformaldeído, que permite uma penetração melhor nas extremidades dos lumens dos endoscópios,
                            cateteres e outros artigos garantindo que podem ser reutilizados.</p>

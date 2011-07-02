@@ -18,8 +18,9 @@
               </div>
               <div class="grid_3">
                 <ul>
+                  <li><a href="/solucoes-esterilizacao">Esterilização</a></li>
                   <li><a href="/faq">FAQs</a></li>
-                    <li><a href="/contato">Contato</a></li>
+                  <li><a href="/contato">Contato</a></li>
                 </ul>
               </div>
 

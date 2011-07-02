@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Form Steril - Soluções</title>
+  <meta charset="utf-8">
+  <meta name="description" content="Soluções em esterilização">
+  <meta name="keywords" content="esterilização,materiais,servicos,treinamento,venda,locação,demonstração,acompanhamento,tecnologia">
+  <meta name="author" content="Your name">
+  <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
+  <link rel="stylesheet" href="../css/style.css" type="text/css" media="all">
+
+  <!-- styles for prettyPhoto -->
+  <link rel="stylesheet" href="../css/prettyPhoto.css" type="text/css" media="all">
+
+  <script type="text/javascript" src="../js/jquery-1.3.2.min.js"></script>
+  <script type="text/javascript" src="../js/script.js"></script>
+
+  <script type="text/javascript" src="../js/cufon-yui.js"></script>
+  <script type="text/javascript" src="../js/Lane_-_Narrow_400.font.js"></script>
+  <script type="text/javascript" src="../js/cufon-replace.js"></script>
+  <!--[if lt IE 9]>
+    <script type="text/javascript" src="../js/html5.js"></script><![endif]-->
+  <!--[if lt IE 7]><script type="text/javascript" src="http://info.template-help.com/files/ie6_warning/ie6_script_other.js"></script><![endif]-->
+  <!--#include virtual="../analytics.shtml" -->
+</head>
+
+<body>
+  <div class="main">
+  	<!-- header -->
+   <!-- header -->
+   <!--#set var="onde" value="home" -->
+    <!--#include virtual="../header.shtml" -->
+
+    <!-- content -->
+    <section id="content">
+      <!-- .content-box -->
+        <div class="content-box">
+            <div class="container_16">
+                <div class="wrapper">
+                  <div class="grid_16">
+                    <h3 id="full_width">Soluções customizadas para esterilização de acordo
+                                        com as mais rigorosas normas técnicas e ambientais:
+                                        Venda, Locação e Outsourcing</h3>
+                    <p>Analisamos a sua necessidade e propomos uma solução customizada que pode ser a venda e/ou alocação de autoclaves, com ou sem fornecimento de profissionais qualificados para a operacionalização de sua CME (Central de Material Esterilizado), assim como podemos realizar a prestação de serviços de coleta e entrega dos materiais esterilizados termo-sensíveis e/ou termo-resistentes.</p>
+                    <!-- insert content here -->
+                  </div>
+                </div>
+                <div class="wrapper">
+                    <div class="grid_8">
+                    <!-- insert content here -->
+                        <h3 id="full_width">Outsourcing: Terceirização da Central de Material Esterilizado</h3>
+                        <p><figure><img width="192px;" src="../images/outsourcing.jpg" alt=""></figure>
+                        A atividade da CME é caracterizada por ser uma atividade-meio e pode ser terceirizada. Na prática, a maioria das instituições de saúde já possui experiências com a terceirização da esterilização de produtos termo-sensíveis, o que aponta para a possibilidade desta atividade ocorrer também no segmento dos artigos termo-resistentes.</p>
+                        <p>Muitas instituições não comportam ajustar-se às exigências legais atuais para a adequada estrutura física dos ambientes de CME e as necessidades de reformas podem assumir custos elevados, sendo a terceirização a melhor alternativa.</p>
+                        <p>É preciso, no entanto, cuidar para não cair em armadilhas, particularmente no que se refere à qualidade do serviço prestado, que é o ponto que deve receber a maior atenção. Devemos considerar não somente todas as etapas do processamento, desde a limpeza até o controle da esterilização, como também aspectos operacionais, como o transporte e principalmente o tempo de "turnover" dos artigos que está associado ao processo de esterilização adotado.</p>
+                        <br/>
+                        <figure><img src="../images/saudeocupacional.jpg" alt=""></figure>
+                        <h3 id="full_width">Saúde: Eficiência com riscos e custos mais baixos</h3>
+                        <p>
+                            O processo de esterilização da Form Steril® além de possuir um custo mais baixo, menor tempo de esterilização e maior seguridade estéril, comprovou aos hospitais que passaram a utilizar este processo à extinção da ocorrência das dermatites e irritações cutâneas, nas mãos e antebraços nas auxiliares do arsenal de materiais, bem como das enfermeiras e médicos, que manipulavam as embalagens dos produtos anteriormente esterilizados pelo processo por Óxido de Etileno.</p>
+                        <p>A esterilização por paraformaldeído também eliminou as ocorrências de choque pirogênico em pacientes que utilizavam os cateteres da hemodinâmica reprocessados anteriormente pelo processo por Óxido de Etileno.</p>
+                        <h3 id="full_width">Creditação: Seleção de fornecedores</h3>
+                        <p><figure><img src="../images/medicofornece.jpg" alt=""></figure>No momento da qualificação do prestador de serviço terceirizado é necessário assegurar que o mesmo esteja preparado para responder rapidamente às necessidades da instituição de saúde. É fundamental lembrar que em saúde, o grau de previsão e programação de atividades é sempre relativo, pois a qualquer momento podem ocorrer eventos inesperados que requeiram mudanças súbitas.</p>
+                         <p>É preciso estar alerta para não pactuar com condições inadequadas de trabalho que podem ser impostas aos trabalhadores que atuam na CME terceirizada e que estão associadas ao processo de esterilização praticado.  De acordo com a legislação vigente no país, a empresa contratante possui responsabilidade compartilhada no que tange as condições de trabalho do serviço contratado.</p>
+                         <p>A finalidade principal de uma CME será sempre na atenção ao ser humano e temos que garantir que os produtos utilizados na assistência à saúde estarão livres de germes e de agentes tóxicos, completamente funcionais e disponíveis no momento que forem necessários.</p>
+
+
+                    </div>
+                    <div class="grid_8">
+                    <!-- insert content here -->
+                        <h3 id="full_width">Turnover dos materiais: Tempo de esterilização </h3>
+                        <p><figure><img src="../images/turnover.jpg" alt=""></figure>As autoclaves desenvolvidas pela Form Steril® possuem a vantagem de trabalham de forma combinada e podem esterilizar materiais termo-resistentes pelo método a vapor ou materiais termo-sensíveis pelo método do paraformaldeído.</p>
+                        <p>As autoclaves da Form Steril® quando operadas na modalidade do método a vapor esterilizam os materiais termo-resistentes no tempo máximo de 15 a 20 minutos contra o tempo de 100 a 120 minutos das autoclaves concorrentes nacionais.  </p>
+                        <p>Para a esterilização dos materiais termo-sensíveis as autoclaves da Form Steril® são programadas facilmente para trabalharem no processo de paraformaldeído e com capacidade para até 1.000 litros. O tempo máximo de esterilização é de 180 minutos, podendo este tempo ser reduzido para 120 minutos se o ciclo de esterilização da autoclave for programado para 60 graus Celsius.</p>
+                        <p>As autoclaves similares que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) possuem ciclos de esterilização mais prolongados em torno de 8 a 16 horas.</p>
+                        <p>As empresas que utilizam o processo por Óxido de Etileno em conformidade com a norma ISO 11135 e a Portaria Interministerial 482/MS/MTE/16 abril de 1999, D.O.U.19/04/99, totalizam 72 a 84 horas de processo de esterilização e a aeração, para a remoção e redução de resíduos de gás ETO que são comprovadamente carcinogênico.  Somando-se o tempo de coleta,   expedição e entrega ao cliente totalizamos o mínimo de 5 dias, o que normalmente não ocorre em comprimento de nenhuma das normas acima, pois a maioria dos processos são realizados com o tempo de umidificação ,exposição e limpeza de 12 horas com aeração de 24 horas, reduzindo o período de retirada e entrega dos materiais hospitalares para três ou quatro dias com graves conseqüências de saúde ocupacional para os usuários e profissionais que manipulam as embalagens.</p>
+                        <h3 id="full_width">Saúde Ocupacional: Médicos, enfermeiras e auxiliares que manipulam as embalagens </h3>
+                        <p><figure><img src="../images/9page_img1.jpg" alt=""></figure>
+                        O processo de esterilização por Vapor a Baixa Temperatura e Paraformaldeído (VBTP) ® não é carcinogênico, mutagênico e não deixa residual nas embalagens de grau cirúrgico, pois o paraformaldeído se volatiliza com a presença da umidade relativa do ar.</p>
+                        <p>O formaldeído existe naturalmente na atmosfera, alimentos que ingerimos e no corpo humano. O formaldeído não é acumulativo no organismo humano e é essencial para o desenvolvimento do metabolismo orgânico e o seu excesso é rapidamente eliminado através da transpiração sudorípara, fezes e vias renais.</p>
+                        <p>O processo de esterilização por Paraformaldeído é cientificamente comprovado como o processo químico de esterilização mais seguro e não há restrições para que mulheres em idade fértil possam trabalhar nas Centrais de Materiais, que utilizam formaldeído, diferentemente do processo por Óxido de Etileno que é extremamente agressivo e acumulativo no organismo humano.</p>
+                        <p>Os resíduos da resina epóxica do Óxido de Etileno é acumulativa e não são eliminadas pelo organismo humano, gerando ao longo do tempo acúmulos que resultam em graves problemas de saúde ocupacional para os médicos, enfermeiras e auxiliares, que manipulam as embalagens nas inúmeras vezes que realizam cirurgias.</p>
+
+                    </div>
+                 </div>
+                 <div class="wrapper">
+                  <div class="grid_16">
+                    <h3 id="full_width">A Natureza agradece: Inexistência de riscos ambientais </h3>
+                        <p><figure><img width="90px;"src="../images/meioambiente2.jpg" alt=""></figure>
+                         O processo de esterilização por Vapor a Baixa Temperatura e Paraformaldeído (VBTP)® da Form Steril® é tão seguro que os resíduos resultantes são o dióxido de carbono e água, não sendo necessário nenhum controle de risco para o descarte dos resíduos podendo ser descartado em rede de esgoto normal.</p>
+                        <p>O processo por Óxido de Etileno é uma substancia explosiva sendo necessário um procedimento  técnico e de alta segurança para recolhimento e incineração do mesmo.</p>
+                  </div>
+                </div>
+            </div>
+        </div>
+      <!-- /.content-box -->
+    </section>
+  </div>
+  <!-- aside -->
+  <!--#include virtual="../rodape.shtml" -->
+</body>
+</html>

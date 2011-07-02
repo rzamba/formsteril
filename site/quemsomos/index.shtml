@@ -49,7 +49,7 @@
                         </div>
                         <div class="indent">
                         	<h3>Controle de Seguridade Estéril</h3>
-                            <p>Utilizamos um dispositivo chamado <b>STF <i>(loadcheck)</i></b>, para a realização do teste de penetrabilidade do paraformaldeido. Através do <b><u>pacote de sacrifico</u></b> com matéria prima de origem e qualidade <b>ISO</b>, realizamos o teste de seguridade estéril.</p>
+                            <p><figure ><img width="310px;"src="../images/controle1.JPG" alt=""><figcaption>LOADCHECK</figcaption></figure>Utilizamos um dispositivo chamado <b>STF <i>(loadcheck)</i></b>, para a realização do teste de penetrabilidade do paraformaldeido. Através do <b><u>pacote de sacrifico</u></b> com matéria prima de origem e qualidade <b>ISO</b>, realizamos o teste de seguridade estéril.</p>
                             <p>Os documentos referentes ao teste de sacrifício são relatados, etiquetados e arquivados pelo período de tempo regulamentado pela <b>ANVISA</b>. A etiqueta contém data, hora, n.º de lote, maquina, assinatura do operador e responsável técnico pelo processo.</p>
                         </div>
                 </div>
@@ -66,9 +66,9 @@
                     	 <div class="box">
                         <div class="indent-box">
                             <h3>Testemunho</h3>
-                            <p>Como enfermeira-chefe responsável pela CME da Santa Casa de Piracicaba tive a oportunidade de conhecer os processos de esterilização da Form Steril e comprovar a aplicação adequada das técnicas de limpeza, desinfecção e esterilização dos materiais de uso hospitalar.</p>
+                            <p><figure><img src="../images/testemunho.jpg" alt=""></figure>"Como enfermeira-chefe responsável pela CME da Santa Casa de Piracicaba tive a oportunidade de conhecer os processos de esterilização da Form Steril e comprovar a aplicação adequada das técnicas de limpeza, desinfecção e esterilização dos materiais de uso hospitalar.</p>
                             <p>A Form Steril possui a estrutura física adequada, recursos humanos qualificados, maquinário e insumos necessários, além de procedimentos bem definidos e controle de qualidade dos resultados, garantindo a efetividade de seu processo de esterilização.</p>
-                            <p>Considero o uso do processo de esterilização por paraformaldeído um modelo de sucesso! E como é importante ter-se exemplos bem-sucedidos!</p>
+                            <p>Considero o uso do processo de esterilização por paraformaldeído um modelo de sucesso! E como é importante ter-se exemplos bem-sucedidos!"</p>
                             <p> <b>Zilda Ometto Nardin</b><br/>
                                 Enfermeira pela PUC de Campinas<br/>
                                 COREN/SP N° 0076629</p>

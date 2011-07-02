@@ -40,8 +40,8 @@
                 <div class="wrapper">
                     <div class="grid_8">
                     <!-- insert content here -->
-                        <h2 id="full_width">Vantagens e Características técnicas </h2>
-                        <p>Os equipamentos da Form Steril® cobrem com vantagens adicionais os reprocessamentos químicos realizados por Óxido de Etileno ou Plasma de Peróxido de hidrogênio.</p>
+                        <h3 id="full_width">Vantagens e Características técnicas </h3>
+                        <p><figure><img src="../images/autoclave3.jpg" alt=""></figure>Os equipamentos da Form Steril® cobrem com vantagens adicionais os reprocessamentos químicos realizados por Óxido de Etileno ou Plasma de Peróxido de hidrogênio.</p>
                         <p>Nos reprocessamento a vapor saturado os equipamentos da Form Steril® reduzem o tempo de esterilização de 100 a 120 minutos para 20 minutos, tendo como conseqüência a redução dos custos energéticos, desgastes de exposição dos instrumentais ao vapor, e maior disponibilidade de manuseio e uso dos instrumentais através da redução do tempo de esterilização.</p>
                         <p>Todos os equipamentos produzidos pela Form Steril® são nacionais com peças e insumos disponivies no mercado local, sem necessidades de importação, com baixo custo e disponibilidade imediata de insumos e peças de reposição, reduzindo o custo de operação, manutenção e tempo de equipamento parado. </p>
                         <p>Para a esterilização dos materiais termo-resistentes as autoclaves desenvolvidas pela Form Steril® possuem a vantagem de trabalharem de forma combinada, ou seja, um mesmo autoclave  pode esterilizar materiais termo-resistentes pelo método a vapor ou materiais termo-sensíveis pelo método do paraformaldeído.</p>
@@ -49,17 +49,17 @@
                         <p>Outro ponto importante é que tanto as autoclaves a vapor nacionais e/ou importados não trabalham de forma combinada, ou seja, método a vapor ou a formaldeído, gerando a necessidade de se ter autoclaves específicos e consequentemente mais espaço para autoclaves, além da impossibilidade de atuarem como back-up um do outro, gerando custos de aquisição, manutenção e espaços adicionais.</p>
                         <p>Para a esterilização dos materiais termo-sensíveis as autoclaves da Form Steril® que trabalham de forma combinada são programadas facilmente para trabalharem no processo de paraformaldeído e com capacidade para até 1.000 litros. O tempo máximo de esterilização é de 180 minutos, podendo este tempo ser reduzido para 120 minutos se o ciclo de esterilização da autoclave for programado para 60 graus Celsius.</p>
                         <p>As autoclaves similares que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) utilizam a formalina líquida estabilizada em solução de metanol e possuem ciclos de esterilização mais prolongados em torno de 8 a 16 horas.</p>
-                        <h2 id="full_width">Autoclave para esterilização a baixa ou alta temperatura </h2>
-                        <p>A estilização por baixa temperatura é efetuada pela sublimação de granulado solido de paraformaldeído num reator, sendo transformado em gás de formaldeído, para o reprocessamento de materiais conforme norma ISO 24.424/9 em substituição da resolução da Comunidade Européia EN – 14.180 com nível de seguridade estéril de 10 exponenciais (-6).</p>
+                        <h3 id="full_width">Autoclave para esterilização a baixa ou alta temperatura </h3>
+                        <p><figure><img width="200px;" src="../images/autoclave2.jpg" alt=""></figure>A estilização por baixa temperatura é efetuada pela sublimação de granulado solido de paraformaldeído num reator, sendo transformado em gás de formaldeído, para o reprocessamento de materiais conforme norma ISO 24.424/9 em substituição da resolução da Comunidade Européia EN – 14.180 com nível de seguridade estéril de 10 exponenciais (-6).</p>
                         <p>A esterilização em alta temperatura e efetuada por vapor saturado conforme norma ISO 11.134.</p>
                         <p>A autoclave é projetada é fabricado para instalações com barreira sanitária, com duas portas de acesso, conforme descrição técnica abaixo apresentada, com volume de capacidade da câmara interna variável em litros, obedecendo à resolução RDC 50 da ANVISA, com seus acessórios básicos descritos em anexo item 11.0.</p>
                     </div>
                     <div class="grid_8">
                     <!-- insert content here -->
-                        <h2 id="full_width">Ciclos de operação para esterilização</h2>
+                        <h3 id="full_width">Ciclos de operação para esterilização</h3>
                         <p>Os ciclos de esterilização podem ser programados, e incluídos no microprocessador, conforme a necessidade dos produtos existentes nas cargas a serem esterilizadas.</p>
-                        <p>O microprocessador já inclui os seguintes ciclos básicos que poderão ser utilizados:</p>
-                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                        <p><figure class="fright"><img src="../images/ciclioesteriliza.jpg" alt=""></figure>O microprocessador já inclui os seguintes ciclos básicos que poderão ser utilizados:</p>
+                        <ul class="list4" style="color:#00c9d6;">
                             <li style="padding-bottom: 5px;"><b>Ciclo F1</b> - Vapor saturado a 121ºC, pressão manométrica de 1,1 bar, tempo máximo de 15 minutos para teste de seguridade biológica com integrador química classe 6 conforme norma ISO  11.140 com três pulsos de vácuo de 1 minuto.</li>
                             <li style="padding-bottom: 5px;"><b>Ciclo F2</b> - Vapor saturado a 134ºC com pressão manométrica de 2,1 bar no tempo máximo de 4,0 minutos para teste de seguridade biológica com integradores química classe 6 conforme norma ISO 11.140 com três pulsos de vácuo de 1 minuto.</li>
                             <li style="padding-bottom: 5px;"><b>Ciclo F3</b> - Ciclo de formaldeído para baixa temperatura, com tempo e temperaturas programáveis de 50ºC com tempo de 180minutos até 80ºC com tempo de 60 minutos</li>
@@ -69,11 +69,11 @@
 	                        Este ciclo será automatizado pelo micro processador dentro da malha de algarítimo matemático fundamentado na equação com integração angular da seguinte função: F0 =  Δt  ∑ (Δ  T  -  121 )/Z</li>
                             <li style="padding-bottom: 10px;"><b>Ciclo Flash</b> - >A 134 graus Celsius, com 3,5 minutos de esterilização, e tempo de total máximo de 15 minutos, para carga máxima de 30% em peso.</li>
                         </ul>
-                        <h2 id="full_width">Termodesinfectadora da Form Steril&reg;</h2>
-                        <p>Maquina termodesinfectadora para termo desinfecção por ciclo pulsante por arraste, com controlador de temperatura por microprocessador, com ciclo auto limpante do reservatório de água.</p>
+                        <h3 id="full_width">Termodesinfectadora da Form Steril&reg;</h3>
+                        <p><figure class="fright"><img width="280px;" src="../images/termo.jpg" alt=""></figure>Maquina termodesinfectadora para termo desinfecção por ciclo pulsante por arraste, com controlador de temperatura por microprocessador, com ciclo auto limpante do reservatório de água.</p>
                         <p>Realiza a termodesinfecção de produtos, peças, ou partes de materiais médicos, farmacêuticos, odontológicos, hospitalares, com processo de desinfecção por temperatura controlada, para materiais termo sensível e termo-resistente, utilizando como agente físico água e agentes químicos dosados automaticamente, atendendo as exigências das normas e processo de termodesinfecção de materiais.</p>
                         <p>O equipamento opera com dois ciclos básicos de termodesinfecção, com enzimáticos, e enxágue com adição de secante, nos tempos a serem programados em função do tipo e conformidade construtiva, dos materiais do cliente a serem termodesinfectados.</p>
-                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                        <ul class="list4" style="color:#00c9d6;"">
                             <li style="padding-bottom: 5px;">Capacidade da maquina 250 litros;</li>
                             <li style="padding-bottom: 5px;">Portas tipo guilhotina com barreira sanitária;</li>
                             <li style="padding-bottom: 5px;">A temperatura pode ser ajustada manualmente ou por ajuste automático da CPU via serial rs 485 m pt 100;</li>

@@ -40,12 +40,13 @@
                 <div class="wrapper">
                     <div class="grid_8">
                     <!-- insert content here -->
-                        <h2 id="full_width">Serviços de Esterilização de Materiais </h2>
-                        <p>Esterilização a alta temperatura dos produtos resistentes ao calor (pacotes de campos e aventais cirúrgicos, caixas de instrumentos cirúrgicos, gazes, chumaços, ataduras, etc.</p>
+                        <h3 id="full_width">Serviços de Esterilização de Materiais </h3>
+                        <p><figure><img width="220px;" src="../images/servicosesteriliza.jpg" alt=""></figure>
+                        Esterilização a alta temperatura dos produtos resistentes ao calor (pacotes de campos e aventais cirúrgicos, caixas de instrumentos cirúrgicos, gazes, chumaços, ataduras, etc.</p>
                         <p>Esterilização a baixa temperatura dos materiais termo-sensíveis com a utilização do processo por paraformaldeído.</p>
                         <p>Processo aplicável a todos os materiais esterilizados a óxido de etileno, com a vantagem de ser o processo mais indicado para esterilização de cateteres, devido seu alto poder de penetração em pequenos lumens*.</p>
                         <p>Permite a entrega mais rápida dos materiais em função da não necessidade de aeração posterior.</p>
-                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                        <ul class="list4" style="color:#00c9d6;">
                             <li style="padding-bottom: 5px;">Coleta e entrega dos produtos através de frota própria, agilizando o processo;</li>
                             <li style="padding-bottom: 5px;">Limpeza dos materiais com uso de água tratada, detergentes enzimáticos e lavadoras ultra-sônica;</li>
                             <li style="padding-bottom: 5px;">Avaliação criteriosa da integridade e funcionalidade dos materiais;</li>
@@ -53,30 +54,30 @@
                             <li style="padding-bottom: 5px;">Preparo dos produtos de forma que permite a manutenção de suas características e penetração dos elementos de esterilização. Empacotamento com uso de embalagens SMS ou PAPEL GRAU CIRÚRGICO.</li>
                         </ul><br/>
                         <p>* Segundo estudo de Rubner, 1906/ Van Loew 1988.</p><br/>
-                        <h2 id="full_width">Treinamento para Clientes</h2>
-                        <p>Para que os equipamentos e serviços vendidos pela Form Steril® possam atingir sua melhor performance, disponibilizamos aos nossos clientes um treinamento técnico acompanhado de um manual detalhado de procedimentos técnicos e funcionais de esterilização de materiais.</p>
+                        <h3 id="full_width">Treinamento para Clientes</h3>
+                        <p><figure><img width="180px;" src="../images/treinamento.jpg" alt=""></figure>Para que os equipamentos e serviços vendidos pela Form Steril® possam atingir sua melhor performance, disponibilizamos aos nossos clientes um treinamento técnico acompanhado de um manual detalhado de procedimentos técnicos e funcionais de esterilização de materiais.</p>
                         <p>  Uma equipe especialmente preparada ministra, de acordo com as necessidades de cada cliente, o treinamento do pessoal responsável pela operação dos equipamentos garantindo o melhor desempenho possível do processo de esterilização.</p>
                     </div>
                     <div class="grid_8">
                     <!-- insert content here -->
-                        <h2 id="full_width">Venda ou Locação de Autoclaves</h2>
-                        <p>Trabalhamos com venda e locação de autoclaves para Hospitais e Clínicas e
+                        <h3 id="full_width">Venda ou Locação de Autoclaves</h3>
+                        <p><figure class="fright"><img src="../images/autoclave.jpg" alt=""></figure>Trabalhamos com venda e locação de autoclaves para Hospitais e Clínicas e
                         possuímos uma equipe especializada de alto nível que a partir do entendimento de sua necessidade fabricamos as autoclaves para venda ou locação de acordo com os mais rigorosos procedimentos de qualidade e tecnologia.</p>
                         <p>Colocamos nossa experiência a seu dispor para gerar uma solução rápida e adequada em termos funcionais e econômicos, pois possuímos a patente e o know how comprovado da tecnologia que é totalmente baseada em componentes nacionais.</p>
                         <p>Consulte-nos, enviando sua duvidas e/ou Solicitações de Orçamentos para o endereço <a href="mailto:comercial@formsteril.com.br"> comercial@formsteril.com.br</a></p>
-                        <h2 id="full_width">Assistência Técnica</h2>
-                        <p>Disponibilizamos aos nossos clientes um contrato de gestão e planejamento de manutenção em equipamentos e instalações.</p>
+                        <h3 id="full_width">Assistência Técnica</h3>
+                        <p><figure class="fright"><img width="180px;"src="../images/assistenciatecnica.jpg" alt=""></figure>Disponibilizamos aos nossos clientes um contrato de gestão e planejamento de manutenção em equipamentos e instalações.</p>
                         <p>A Form Steril®  se diferencia pela forma com que atua na área de Assistência Técnica, contando com:</p>
-                        <ul style="list-style-type:square;color:#00c9d6;list-style-position:inside;">
+                        <ul class="list4" style="color:#00c9d6;">
                             <li style="padding-bottom: 5px;">Profissionais altamente capacitados;</li>
                             <li style="padding-bottom: 5px;">Atendimento ágil e personalizado para o cliente;</li>
-                            <li style="padding-bottom: 5px;">Acordo de Serviços (SLA – Service Agreement Service);</li>
+                            <li style="padding-bottom: 5px;">Acordo de Serviços (SLA – Service Level Agreement);</li>
                             <li style="padding-bottom: 5px;">Peças e componentes nacionais;</li>
                             <li style="padding-bottom: 5px;">Parceria com as melhores empresas fabricantes de componentes;</li>
                             <li style="padding-bottom: 5px;">Software de gerenciamento para controle de garantia das peças e serviços executados.</li>
                         </ul>
-                        <h2 id="full_width">Demonstração e Acompanhamento Técnico</h2>
-                        <p>A Form Steril® disponibiliza o serviço de entrega técnica, com acompanhamento de montagem e instruções de uso de equipamentos de tecnologia e dispõe de uma equipe de Promotores Técnicos, aptos a realizar treinamentos, demonstrações e desenvolvimento junto ao usuário e funcionário da manutenção.</p>
+                        <h3 id="full_width">Demonstração e Acompanhamento Técnico</h3>
+                        <p><figure class="fright"><img width="200px;"src="../images/9page_img3.jpg" alt=""></figure>A Form Steril® disponibiliza o serviço de entrega técnica, com acompanhamento de montagem e instruções de uso de equipamentos de tecnologia e dispõe de uma equipe de Promotores Técnicos, aptos a realizar treinamentos, demonstrações e desenvolvimento junto ao usuário e funcionário da manutenção.</p>
                     </div>
                  </div>
             </div>

@@ -45,7 +45,7 @@
                                 <li><a href="#faq4"><span style="font-size:15px;">Quais são as diferenças entre os processos de esterilização Físico e Químico?</span></a></li>
                                 <li><a href="#faq5"><span style="font-size:15px;">Quais são os processos de esterilização existentes?</span></a></li>
                                 <li><a href="#faq6"><span style="font-size:15px;">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</span></a></li>
-                                <li><a href="#faq7"><span style="font-size:15px;">O que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a></li>
+                                <li><a href="#faq7"><span style="font-size:15px;">Em que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a></li>
                                 <li><a href="#faq8"><span style="font-size:15px;">Quais são as diferenças básicas entre o Formaldeído e o Paraformaldeído?</span></a></li>
                                 <li><a href="#faq9"><span style="font-size:15px;">Qual é o tempo do ciclo completo de esterilização pelo processo da Form Steril®?</span></a></li>
                                 <li><a href="#faq10"><span style="font-size:15px;">O processo de esterilização por Paraformaldeído Sólido é mais econômico?</span></a></li>
@@ -54,11 +54,11 @@
                                 <li><a href="#faq13"><span style="font-size:15px;">Quais são os riscos de esterilização com o processo de Óxido de Etileno?</span></a></li>
                                 <li><a href="#faq14"><span style="font-size:15px;">Qual o nível de toxidade do Processo por Óxido de Etileno?</span></a></li>
                                 <li><a href="#faq15"><span style="font-size:15px;">Existe toxidade no processo por Paraformaldeído?</span></a></li>
-                                <li><a href="#faq16"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</span></a></li>
-                                <li><a href="#faq17"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Plasma de Peróxido de Hidrogênio?</span></a></li>
+                                <li><a href="#faq16"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Óxido de Etileno ?</span></a></li>
+                                <li><a href="#faq17"><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Peróxido de Hidrogênio?</span></a></li>
                                 <li><a href="#faq18"><span style="font-size:15px;">O processo de esterilização por paraformaldeído é aprovado pela ANVISA?</span></a></li>
                                 <li><a href="#faq19"><span style="font-size:15px;">Qual é a experiência da Form Steril® no processo de esterilização por Paraformaldeído?</span></a></li>
-                                <li><a href="#faq20"><span style="font-size:15px;">Quais são as normas ISO do processo de esterilização da Form Steril®?Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</span></a></li>
+                                <li><a href="#faq20"><span style="font-size:15px;">Quais são as normas ISO do processo de esterilização da Form Steril®?</span></a></li>
                                 <li><a href="#faq21"><span style="font-size:15px;">Quais são as evidências da eficácia do paraformaldeído em artigos canulados de lúmen estreito, como os cateteres de hemodinâmica?</span></a></li>
                                 <li><a href="#faq22"><span style="font-size:15px;">Como é que funciona o processo de esterilização por paraformaldeído da Form Steril®?</span></a></li>
                                 <li><a href="#faq23"><span style="font-size:15px;">Como é validado o processo de esterilização da Form Steril®?</span></a></li>
@@ -112,11 +112,12 @@
                         <!-- pergunta -->
                         <a name="faq6" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens e desvantagens dos processos de esterilização existentes?</span></a>
                         <p>
-                            <a href="../comparativo">Clique aqui</a> e veja o quadro comparativo entre os processos de esterilização existentes.
+                            <br/>
+                            <a href="../comparativo" class="button4" >Clique aqui e veja o quadro comparativo entre os processos de esterilização existentes.</a>
                         </p>
                         <!-- fim pergunta -->
                         <!-- pergunta -->
-                        <a name="faq7" class="normaltip" ><span style="font-size:15px;">O que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a>
+                        <a name="faq7" class="normaltip" ><span style="font-size:15px;">Em que o processo por Paraformaldeído  (VBTP) difere do processo por Formaldeído (VBTF)?</span></a>
                         <p>O processo de esterilização Vapor por Baixa Temperatura e Paraformaldeído (VBTP) ® se difere dos demais métodos de formaldeído (VBTF) por ter a sua reação catalisada num reator que promove o super aquecimento da gaseificação potencializando o efeito de capilaridade do gás do paraformaldeído sublimado, aumentando a qualidade estéril e reduzindo o tempo de exposição dos artigos.</p>
                         <p>O processo atinge seguridade estéril para os materiais de pequenos lumens (cateteres) devido a sua alta eficiência de penetração por efeito de capilaridade e possui um alcance de seguridade estéril com níveis bem superiores aos processos de formaldeído (VBTF), de Óxido de Etileno (ETO) e  Peróxido de Hidrogênio (água oxigenada concentrada).</p>
                         <!-- fim pergunta -->
@@ -175,12 +176,12 @@
                         <p>Conforme a reação química do processo é comprovada, que o resíduo final de cada ciclo do reprocessamento dos materiais e tão somente dióxido de carbono e água podendo ser eliminando em efluentes de esgoto comum.</p>
                         <!-- fim pergunta -->
                         <!-- pergunta -->
-                        <a name="faq16" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Óxido de Etileno ?</span></a>
+                        <a name="faq16" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Óxido de Etileno ?</span></a>
                         <p>O processo de esterilização da Form Steril® além de possuir um custo mais baixo, menor tempo de esterilização e maior seguridade estéril, comprovou aos hospitais que passaram a utilizar este processo a extinção da ocorrência das dermatites e irritações cutâneas, nas mãos e antebraços nas auxiliares do arsenal de materiais, bem como das enfermeiras e médicos, que manipulavam as embalagens dos produtos que eram esterilizados anteriormente pelo processo de Óxido de Etileno em função da eliminação de resíduo na embalagem.</p>
                         <p>Outro ponto importantíssimo é que o processo de esterilização por paraformaldeído também comprovou a eliminação das ocorrências de choque pirogênico em pacientes que utilizam os cateteres da hemodinâmica reprocessados anteriormente pelo processo de Óxido de Etileno.</p>
                         <!-- fim pergunta -->
                         <!-- pergunta -->
-                        <a name="faq17" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam o processo de Plasma de Peróxido de Hidrogênio?</span></a>
+                        <a name="faq17" class="normaltip" ><span style="font-size:15px;">Quais são as vantagens do processo de esterilização da Form Steril® em relação as empresas que utilizam Peróxido de Hidrogênio?</span></a>
                         <p>A cada ciclo de esterilização das autoclaves que utilizam o método de Plasma de Peróxido de Hidrogênio tem-se um custo muito elevado de esterilização em função de sua baixa capacidade de litragem e os altos custos dos insumos que são específicos e importados.</p>
                         <p>Embora sejam muito eficientes em tempo, em torno de 50 minutos para a esterilizadora de 50 litros, ou 90 minutos para a de 100 litros, as autoclaves possuem elevados custos de importação dos equipamentos e manutenção.</p>
                         <p>As autoclaves de Plasma de Peróxido de Hidrogênio tem baixa capacidade de produção, a  maior autoclave de disponível no mercado tem sua capacidade limitada a 100 litros, enquanto as autoclaves da Form Steril® tem uma  capacidade de 1.000 litros, ou seja 10 vezes maior com um custo de aquisição, manutenção e operacionalização muito mais baixo.</p>
