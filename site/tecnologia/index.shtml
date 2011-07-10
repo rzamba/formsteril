@@ -4,7 +4,7 @@
   <title>Form Steril - Tecnologia</title>
   <meta charset="utf-8">
   <meta name="description" content="Tecnologia em esterilização hospitalar">
-  <meta name="keywords" content="tecnologia,paraformaldeído,autoclave,vapor,ciclos,termodesinfectadora">
+  <meta name="keywords" content="Tecnologia em Autoclaves, Tecnologia Nacional de Autoclaves, VBTF, Vapor a Baixa Temperatura por Formaldeído, VBTP, Vapor a Baixa Temperatura por Paraformaldeído, Formaldeído, Paraformaldeído, Plasma de Peróxido de Hidrogênio, Óxido de Etileno, Gás ETO, Materias Termoresistentes, Materiais Termo Sensíveis, Materias Termo Resistentes, Materiais Termo Sensíveis, Microbactérias, Integradores Químicos, Integradores Biológicos, Indicadores Químicos, Indicadores Biológicos, Cisa, Sterrad, Sercon, Baumer,termodesinfectadora">
   <meta name="author" content="Pedro Azambuja">
   <link rel="stylesheet" href="../css/reset.css" type="text/css" media="all">
   <link rel="stylesheet" href="../css/grid.css" type="text/css" media="all">
@@ -50,7 +50,7 @@
                         <p>Para a esterilização dos materiais termo-sensíveis as autoclaves da Form Steril® que trabalham de forma combinada são programadas facilmente para trabalharem no processo de paraformaldeído e com capacidade para até 1.000 litros. O tempo máximo de esterilização é de 180 minutos, podendo este tempo ser reduzido para 120 minutos se o ciclo de esterilização da autoclave for programado para 60 graus Celsius.</p>
                         <p>As autoclaves similares que utilizam o processo de Vapor a Baixa Temperatura e Formaldeído (VBTF) utilizam a formalina líquida estabilizada em solução de metanol e possuem ciclos de esterilização mais prolongados em torno de 8 a 16 horas.</p>
                         <h3 id="full_width">Autoclave para esterilização a baixa ou alta temperatura </h3>
-                        <p><figure><img width="200px;" src="../images/autoclave2.jpg" alt=""></figure>A estilização por baixa temperatura é efetuada pela sublimação de granulado solido de paraformaldeído num reator, sendo transformado em gás de formaldeído, para o reprocessamento de materiais conforme norma ISO 24.424/9 em substituição da resolução da Comunidade Européia EN – 14.180 com nível de seguridade estéril de 10 exponenciais (-6).</p>
+                        <p><figure><img width="200px;" src="../images/formsteril014.jpg" alt=""></figure>A estilização por baixa temperatura é efetuada pela sublimação de granulado solido de paraformaldeído num reator, sendo transformado em gás de formaldeído, para o reprocessamento de materiais conforme norma ISO 24.424/9 em substituição da resolução da Comunidade Européia EN – 14.180 com nível de seguridade estéril de 10 exponenciais (-6).</p>
                         <p>A esterilização em alta temperatura e efetuada por vapor saturado conforme norma ISO 11.134.</p>
                         <p>A autoclave é projetada é fabricado para instalações com barreira sanitária, com duas portas de acesso, conforme descrição técnica abaixo apresentada, com volume de capacidade da câmara interna variável em litros, obedecendo à resolução RDC 50 da ANVISA, com seus acessórios básicos descritos em anexo item 11.0.</p>
                     </div>
@@ -66,7 +66,7 @@
                             <li style="padding-bottom: 5px;"><b>Ciclo F4</b> - Ciclo de Bowie Dick</li>
                             <li style="padding-bottom: 5px;"><b>Ciclo de Prion</b> - Pode ser programado com tempo total máximo de 37 minutos, para carga máxima da maquina com caixa de Lizarov, podendo variar para menos tempo, em função do tipo da carga a ser esterilizada.</li>
                             <li style="padding-bottom: 5px;"><b>Ciclo F0</b> - Processo que pode ser programado com o tempo F0 (F zero) na redução escala de carga micro biológica de log 10 (6) para log 10 (- 6) conforme definição da norma E N 556, com pulso de vácuo programável, no tempo em que se fizer necessário.
-	                        Este ciclo será automatizado pelo micro processador dentro da malha de algarítimo matemático fundamentado na equação com integração angular da seguinte função: F0 =  Δt  ∑ (Δ  T  -  121 )/Z</li>
+	                        Este ciclo será automatizado pelo micro processador dentro da malha de algarítimo matemático fundamentado na equação com integração angular da seguinte função: <br/>F0 =  Δt  ∑ (Δ  T  -  121 )/Z</li>
                             <li style="padding-bottom: 10px;"><b>Ciclo Flash</b> - >A 134 graus Celsius, com 3,5 minutos de esterilização, e tempo de total máximo de 15 minutos, para carga máxima de 30% em peso.</li>
                         </ul>
                         <h3 id="full_width">Termodesinfectadora da Form Steril&reg;</h3>

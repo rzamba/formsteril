@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3fd324e5-585c-49a0-90ee-52c49b2661fc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/site/tecnologia/informtecnico.pdf" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/comparativo/index.shtml" afterPath="$PROJECT_DIR$/site/comparativo/index.shtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/contato/index.shtml" afterPath="$PROJECT_DIR$/site/contato/index.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/faq/index.shtml" afterPath="$PROJECT_DIR$/site/faq/index.shtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/header.shtml" afterPath="$PROJECT_DIR$/site/header.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/index.shtml" afterPath="$PROJECT_DIR$/site/index.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/processos/index.shtml" afterPath="$PROJECT_DIR$/site/processos/index.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/quemsomos/index.shtml" afterPath="$PROJECT_DIR$/site/quemsomos/index.shtml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/rodape.shtml" afterPath="$PROJECT_DIR$/site/rodape.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/seguridade/index.shtml" afterPath="$PROJECT_DIR$/site/seguridade/index.shtml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml" afterPath="$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/solucoes/index.shtml" afterPath="$PROJECT_DIR$/site/solucoes/index.shtml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/site/tecnologia/index.shtml" afterPath="$PROJECT_DIR$/site/tecnologia/index.shtml" />
     </list>
@@ -35,80 +35,7 @@
     <favorites_list name="formsteril" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="40" selection-start="1607" selection-end="1643" vertical-scroll-proportion="-16.875">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rodape.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/rodape.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="57" selection-start="821" selection-end="821" vertical-scroll-proportion="-12.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/faq/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="33" selection-start="11475" selection-end="11475" vertical-scroll-proportion="-21.944445">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/header.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="12" selection-start="162" selection-end="162" vertical-scroll-proportion="-2.5">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/comparativo/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="73" selection-start="4249" selection-end="4249" vertical-scroll-proportion="-15.625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/tecnologia/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="108" selection-start="6251" selection-end="6332" vertical-scroll-proportion="-4.462963">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.shtml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="89" column="49" selection-start="10305" selection-end="10305" vertical-scroll-proportion="-17.25">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.shtml" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/site/seguridade/index.shtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="66" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.18292683">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -125,17 +52,17 @@
         <option value="$PROJECT_DIR$/site/onecolum.html" />
         <option value="$PROJECT_DIR$/site/index-1.shtml" />
         <option value="$PROJECT_DIR$/site/servicos/index.shtml" />
-        <option value="$PROJECT_DIR$/site/contato/index.shtml" />
         <option value="$PROJECT_DIR$/site/js/script.js" />
         <option value="$PROJECT_DIR$/site/header.shtml" />
-        <option value="$PROJECT_DIR$/site/faq/index.shtml" />
-        <option value="$PROJECT_DIR$/site/comparativo/index.shtml" />
-        <option value="$PROJECT_DIR$/site/index.shtml" />
         <option value="$PROJECT_DIR$/site/rodape.shtml" />
-        <option value="$PROJECT_DIR$/site/solucoes/index.shtml" />
+        <option value="$PROJECT_DIR$/site/contato/index.shtml" />
+        <option value="$PROJECT_DIR$/site/index.shtml" />
         <option value="$PROJECT_DIR$/site/quemsomos/index.shtml" />
-        <option value="$PROJECT_DIR$/site/processos/index.shtml" />
+        <option value="$PROJECT_DIR$/site/solucoes/index.shtml" />
+        <option value="$PROJECT_DIR$/site/comparativo/index.shtml" />
         <option value="$PROJECT_DIR$/site/tecnologia/index.shtml" />
+        <option value="$PROJECT_DIR$/site/processos/index.shtml" />
+        <option value="$PROJECT_DIR$/site/faq/index.shtml" />
         <option value="$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml" />
         <option value="$PROJECT_DIR$/site/seguridade/index.shtml" />
       </list>
@@ -167,7 +94,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -203,6 +129,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Favorites" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -289,14 +216,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="62" y="22" width="1230" height="778" extended-state="0" />
+    <frame x="50" y="22" width="1230" height="778" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18739635" sideWeight="0.7378788" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17578773" sideWeight="0.0" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2621212" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -335,7 +262,7 @@
     <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ajuste imagem logo e O processo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Colocando imagens" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -360,6 +287,7 @@
     <MESSAGE value="Colocando no ar" />
     <MESSAGE value="Informe tecnico #" />
     <MESSAGE value="Ajuste imagem logo e O processo" />
+    <MESSAGE value="Colocando imagens" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -385,84 +313,82 @@
         <state line="410" column="8" selection-start="9266" selection-end="9284" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/contato/index.shtml">
+    <entry file="file://$PROJECT_DIR$/site/rodape.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="24" selection-start="1753" selection-end="1778" vertical-scroll-proportion="0.29411766" />
+        <state line="13" column="31" selection-start="504" selection-end="515" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/header.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="12" selection-start="162" selection-end="162" vertical-scroll-proportion="-2.5">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/rodape.shtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="57" selection-start="821" selection-end="821" vertical-scroll-proportion="-12.5">
-          <folding />
-        </state>
+        <state line="4" column="12" selection-start="162" selection-end="162" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="40" selection-start="1607" selection-end="1643" vertical-scroll-proportion="-16.875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/solucoes/index.shtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="57" column="49" selection-start="3903" selection-end="3903" vertical-scroll-proportion="0.47610295">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/processos/index.shtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="44" selection-start="1954" selection-end="1954" vertical-scroll-proportion="0.31358886">
+        <state line="6" column="716" selection-start="945" selection-end="945" vertical-scroll-proportion="0.15679443">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/quemsomos/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="39" selection-start="3623" selection-end="3623" vertical-scroll-proportion="0.22648084">
+        <state line="6" column="2" selection-start="172" selection-end="172" vertical-scroll-proportion="0.15151516">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/faq/index.shtml">
+    <entry file="file://$PROJECT_DIR$/site/solucoes/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="33" selection-start="11475" selection-end="11475" vertical-scroll-proportion="-21.944445">
+        <state line="7" column="45" selection-start="604" selection-end="604" vertical-scroll-proportion="0.17676768">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/site/comparativo/index.shtml">
+    <entry file="file://$PROJECT_DIR$/site/processos/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="73" selection-start="4249" selection-end="4249" vertical-scroll-proportion="-15.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="89" column="49" selection-start="10305" selection-end="10305" vertical-scroll-proportion="-17.25">
+        <state line="6" column="254" selection-start="417" selection-end="417" vertical-scroll-proportion="0.15151516">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/tecnologia/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="60" column="108" selection-start="6251" selection-end="6332" vertical-scroll-proportion="-4.462963">
+        <state line="6" column="555" selection-start="739" selection-end="739" vertical-scroll-proportion="0.15151516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/comparativo/index.shtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="2" selection-start="226" selection-end="226" vertical-scroll-proportion="0.025252525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/contato/index.shtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="75" selection-start="271" selection-end="271" vertical-scroll-proportion="0.025252525">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/faq/index.shtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="688" selection-end="688" vertical-scroll-proportion="0.025252525">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/site/seguridade/index.shtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="66" selection-start="1788" selection-end="1788" vertical-scroll-proportion="0.18292683">
+        <state line="6" column="246" selection-start="402" selection-end="402" vertical-scroll-proportion="0.15151516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/site/solucoes-esterilizacao/index.shtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="184" selection-start="353" selection-end="353" vertical-scroll-proportion="0.15151516">
           <folding />
         </state>
       </provider>
